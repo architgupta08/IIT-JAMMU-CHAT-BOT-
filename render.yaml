@@ -37,6 +37,10 @@ services:
         value: INFO
       - key: RATE_LIMIT_PER_MINUTE
         value: "20"
+      - key: RERANKER_ENABLED
+        value: "false"
+      - key: SCRAPER_ENABLED
+        value: "false"
 
   # ─── Frontend (React/Vite → Static) ──────────────────────
   - type: web
