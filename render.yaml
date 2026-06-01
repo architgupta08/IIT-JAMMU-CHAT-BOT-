@@ -37,8 +37,9 @@ services:
         value: "20"
 
   # ─── Frontend (React/Vite → Static) ──────────────────────
-  - type: static
+  - type: web
     name: iitj-chatbot-frontend
+    runtime: static
     buildCommand: cd frontend && npm ci && npm run build
     staticPublishPath: frontend/dist
     envVars:
