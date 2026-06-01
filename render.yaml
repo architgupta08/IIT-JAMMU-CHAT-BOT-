@@ -35,16 +35,11 @@ services:
         value: INFO
       - key: RATE_LIMIT_PER_MINUTE
         value: "20"
-    disk:
-      name: iitj-data
-      mountPath: /opt/render/project/src/data
-      sizeGB: 1
 
   # ─── Frontend (React/Vite → Static) ──────────────────────
   - type: web
     name: iitj-chatbot-frontend
     runtime: static
-    region: singapore
     plan: free
     buildCommand: cd frontend && npm ci && npm run build
     staticPublishPath: frontend/dist
