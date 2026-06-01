@@ -1,0 +1,4866 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d12" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d11" for="node" attr.name="profile_url" attr.type="string"/>
+<key id="d10" for="node" attr.name="email" attr.type="string"/>
+<key id="d9" for="node" attr.name="designation" attr.type="string"/>
+<key id="d8" for="node" attr.name="context" attr.type="string"/>
+<key id="d7" for="node" attr.name="type" attr.type="string"/>
+<key id="d6" for="node" attr.name="mentioned_in" attr.type="string"/>
+<key id="d5" for="node" attr.name="source_url" attr.type="string"/>
+<key id="d4" for="node" attr.name="updated_at" attr.type="string"/>
+<key id="d3" for="node" attr.name="location" attr.type="string"/>
+<key id="d2" for="node" attr.name="established" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="directed"><node id="IIT Jammu">
+  <data key="d0">General</data>
+  <data key="d1">Indian Institute of Technology Jammu</data>
+  <data key="d2">2016</data>
+  <data key="d3">Jagti, Nagrota, Jammu</data>
+  <data key="d4">2026-05-18T08:05:04.523204</data>
+  <data key="d5">https://iitjammu.ac.in/electrical_engineering/faculty-list/~badrinsubudhi</data>
+</node>
+<node id="CSE">
+  <data key="d0">Department</data>
+  <data key="d4">2026-05-18T08:20:40.648347</data>
+</node>
+<node id="ME">
+  <data key="d0">Department</data>
+  <data key="d4">2026-05-18T08:20:42.377365</data>
+</node>
+<node id="AREAS OF RESEARCH: S. No. Faculty Name Suggestive title of">
+  <data key="d0">General</data>
+  <data key="d4">2026-05-18T08:05:03.432422</data>
+  <data key="d5">https://iitjammu.ac.in/academics/AOR.pdf</data>
+</node>
+<node id="Electrical Engineering">
+  <data key="d0">Department</data>
+  <data key="d4">2026-05-18T08:05:04.522205</data>
+</node>
+<node id="EE">
+  <data key="d0">Department</data>
+  <data key="d4">2026-05-18T08:20:42.377365</data>
+</node>
+<node id="CE">
+  <data key="d0">Department</data>
+  <data key="d4">2026-05-18T08:20:42.377365</data>
+</node>
+<node id="CHE">
+  <data key="d0">Department</data>
+  <data key="d4">2026-05-18T08:20:42.377365</data>
+</node>
+<node id="PhD">
+  <data key="d0">Program</data>
+  <data key="d4">2026-05-18T08:05:04.522205</data>
+</node>
+<node id="Ravikant Saini Head">
+  <data key="d0">Person</data>
+  <data key="d4">2026-05-18T08:05:04.522205</data>
+  <data key="d6">IIT Jammu</data>
+</node>
+<node id="hod.ee@iitjammu.ac.in">
+  <data key="d0">Contact</data>
+  <data key="d4">2026-05-18T08:05:04.523204</data>
+  <data key="d7">email</data>
+</node>
+<node id="PMRF">
+  <data key="d0">Scholarship</data>
+  <data key="d4">2026-05-18T08:05:04.523204</data>
+  <data key="d8">IIT Jammu</data>
+</node>
+<node id="subudhi.badri@iitjammu.ac.in">
+  <data key="d0">Contact</data>
+  <data key="d4">2026-05-18T08:05:05.094512</data>
+  <data key="d7">email</data>
+</node>
+<node id="Underwater Artificial Intelligence Lab | IIT Jammu">
+  <data key="d0">General</data>
+  <data key="d4">2026-05-18T08:05:05.094512</data>
+  <data key="d5">https://www.iitjammu.ac.in/underwater-artificial-intelligence-lab/gallery.html</data>
+</node>
+<node id="IITJMU/Acad/2025/PG-1/311 25 March 2025 INDIAN INSTITUTE OF TECHNOLOGY JAMMU">
+  <data key="d0">General</data>
+  <data key="d4">2026-05-18T08:20:39.229665</data>
+  <data key="d5">https://iitjammu.ac.in/Programme/pgadmissions/2025/IITJMUAcad2025PG-1311.pdf</data>
+</node>
+<node id="M.Tech Programmes">
+  <data key="d0">General</data>
+  <data key="d4">2026-05-18T08:20:40.652940</data>
+  <data key="d5">https://www.iitjammu.ac.in/Programme/pgadmissions/2022/MTech-advt-2022-23.pdf</data>
+</node>
+<node id="Mathematics">
+  <data key="d0">Department</data>
+  <data key="d4">2026-05-18T08:20:42.377365</data>
+</node>
+<node id="M.Tech">
+  <data key="d0">Program</data>
+  <data key="d4">2026-05-18T08:20:42.378863</data>
+</node>
+<node id="MTech">
+  <data key="d0">Program</data>
+  <data key="d4">2026-05-18T08:20:42.378863</data>
+</node>
+<node id="dean.contedu@iitjammu.ac.in">
+  <data key="d0">Contact</data>
+  <data key="d4">2026-05-18T08:20:42.378863</data>
+  <data key="d7">email</data>
+</node>
+<node id="M.Tech in GenAI and Data Science (Executive)">
+  <data key="d0">General</data>
+  <data key="d4">2026-05-18T08:20:42.379872</data>
+  <data key="d5">https://w.iitjammu.ac.in/cep/mtech-in-genaI-and-data-science.html</data>
+</node>
+<node id="Prof. Abhay Sharma">
+  <data key="d7">faculty</data>
+  <data key="d9">Professor</data>
+  <data key="d10">abhay.sharma@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/abhaysharma</data>
+</node>
+<node id="Mechanical Engineering">
+  <data key="d7">department</data>
+</node>
+<node id="Manufacturing Science">
+  <data key="d7">research_area</data>
+</node>
+<node id="Material aspect of Manufacturing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Welding Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Process Modelling and Optimization">
+  <data key="d7">research_area</data>
+</node>
+<node id="Computational Intelligence in Manufacturing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Design of Steel Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Abhishek Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">abhishek.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/abhishekkumar</data>
+</node>
+<node id="Physics">
+  <data key="d7">department</data>
+</node>
+<node id="Research interests - Theoretical condensed matter physics Teaching interests - Solid State Physics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Statistical Mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electromagnetic theory and Quantum Mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Mr. Abhishek Sharmata">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">portal@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/abhisheksharmata</data>
+</node>
+<node id="Media Cell">
+  <data key="d7">department</data>
+</node>
+<node id="Dr. Aditya Shankar Sandupatla">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">aditya.sandupatla@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/adityashankarsandupatla</data>
+</node>
+<node id="Chemical Engineering">
+  <data key="d7">department</data>
+</node>
+<node id="Research Areas 1. Atomistic and molecular modelling of materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="physical phenomenon and chemical reactions using following methods: Density Functional Theory (DFT)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Molecular Dynamics (MD)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Activation of methane to produce hydrogen and carbon nanotubes">
+  <data key="d7">research_area</data>
+</node>
+<node id="Catalytic dehydrogenation of propane to produce hydrogen and propene">
+  <data key="d7">research_area</data>
+</node>
+<node id="Atomic Layer Deposition of materials Teaching Interests">
+  <data key="d7">research_area</data>
+</node>
+<node id="Chemical Reaction Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Heterogeneous catalysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Petroleum Refinery Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Process Dynamics and Control">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Ajay Gautam">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">ajay.gautam@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ajaygautam</data>
+</node>
+<node id="Materials Engineering">
+  <data key="d7">department</data>
+</node>
+<node id="Dr. Ajay Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ajay.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ajaykumar</data>
+</node>
+<node id="Commutative Algebra Combinatorics Teaching Interests: Algebra">
+  <data key="d7">research_area</data>
+</node>
+<node id="Graph Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Topology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Ajay Singh">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ajay.singh@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ajaysingh</data>
+</node>
+<node id="Dr. Ajeet Kumar Sharma">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ajeet.sharma@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ajeetsharma</data>
+</node>
+<node id="Bioscience and Bioengineering">
+  <data key="d7">department</data>
+</node>
+<node id="Biophysics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Non-equilibrium statistical mechanics and Biophysics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Akash Subhash Awale">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">akash.awale@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/akashsubhashawale</data>
+</node>
+<node id="Dr. Alok Kumar Saxena">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">alok.saxena@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/alokkumarsaxena</data>
+</node>
+<node id="Dr. Ambika Prasad Shah">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ambika.shah@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ambikaprasadshah</data>
+</node>
+<node id="Dr. Amitash Ojha">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">amitash.ojha@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/amitashojha</data>
+</node>
+<node id="Humanities &amp; Social Sciences">
+  <data key="d7">department</data>
+</node>
+<node id="Teaching Interests Cognitive Science">
+  <data key="d7">research_area</data>
+</node>
+<node id="Philosophy of Mind">
+  <data key="d7">research_area</data>
+</node>
+<node id="Experimental Methods">
+  <data key="d7">research_area</data>
+</node>
+<node id="Usability">
+  <data key="d7">research_area</data>
+</node>
+<node id="Human-Agent Interaction">
+  <data key="d7">research_area</data>
+</node>
+<node id="Multimodal Communication Research Interests Cognitive Science">
+  <data key="d7">research_area</data>
+</node>
+<node id="Visual Metaphors">
+  <data key="d7">research_area</data>
+</node>
+<node id="Creativity">
+  <data key="d7">research_area</data>
+</node>
+<node id="Multi-modal Communication">
+  <data key="d7">research_area</data>
+</node>
+<node id="Usability Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Human and Artificial Intelligence">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Amlan Kumar Pal">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">amlan.pal@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/amlankumarpal</data>
+</node>
+<node id="Chemistry">
+  <data key="d7">department</data>
+</node>
+<node id="Courses tutored and staff demonstrated at University of St Andrews">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Amrita Chatterjee">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">amrita.chatterjee@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/amritachatterjee</data>
+</node>
+<node id="Dr. Angshuman Kapil">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">angshuman.kapil@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/angshuman</data>
+</node>
+<node id="Dr. Anil Kumar Paidi">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">anil.paidi@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/anilkumarpaidi</data>
+</node>
+<node id="Inter Disciplinary Program">
+  <data key="d7">department</data>
+</node>
+<node id="Dr. Ankit Dubey">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ankit.dubey@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ankitdubey</data>
+</node>
+<node id="Mr. Abhishek (2018UCS)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Ankit Kathuria">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ankit.kathuria@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ankitkathuria</data>
+</node>
+<node id="Civil Engineering">
+  <data key="d7">department</data>
+</node>
+<node id="Dr. Ankit Tyagi">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">ankit.tyagi@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ankittyagi</data>
+</node>
+<node id="Research Interests Synthesis of layered 2D nanomaterials">
+  <data key="d7">research_area</data>
+</node>
+<node id="and metal oxides Synthesis of functional polymer fibers: Electrospinning">
+  <data key="d7">research_area</data>
+</node>
+<node id="and wet-spinning techniques Electrochemical applications: Supercapacitors">
+  <data key="d7">research_area</data>
+</node>
+<node id="Batteries">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electro-catalysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Heat Transfer">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Ankur Bansal">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ankur.bansal@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ankurbansal</data>
+</node>
+<node id="Digital Communication">
+  <data key="d7">research_area</data>
+</node>
+<node id="Signal Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Wireless Communications">
+  <data key="d7">research_area</data>
+</node>
+<node id="Detection and Estimation Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Anup Shukla">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">anup.shukla@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/anupshukla</data>
+</node>
+<node id="Dr. Anurag Misra">
+  <data key="d7">faculty</data>
+  <data key="d9">Professor</data>
+  <data key="d10">anurag.misra@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/anuragmisra</data>
+</node>
+<node id="Research Interests Utilisation of wastes in concrete">
+  <data key="d7">research_area</data>
+</node>
+<node id="improvements in cover-zone properties of concrete">
+  <data key="d7">research_area</data>
+</node>
+<node id="Performance of High strength steel-concrete composite sections. Polymer composites">
+  <data key="d7">research_area</data>
+</node>
+<node id="High strength steel welding Teaching Interests Strength of Materials and Theory of Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Design of Concrete Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Design of Steel structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Pre-stressed Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Bridge Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Archana Rajput">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">archana.rajput@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/archanarajput</data>
+</node>
+<node id="Research Areas Cloaking/Invisbility">
+  <data key="d7">research_area</data>
+</node>
+<node id="Frequency Selective Surfaces">
+  <data key="d7">research_area</data>
+</node>
+<node id="Transformation Optics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Antennas">
+  <data key="d7">research_area</data>
+</node>
+<node id="Metamaterials Teaching Interests Electromagnetics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Network Analysis And Synthesis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Basic Electronics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Microwave Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Antenna Theory And Design">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Arpita Paul">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">arpita.paul@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/arpitapaul</data>
+</node>
+<node id="Research Areas First-principles quantum theoretical modelling of advanced functional materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Arun Kumar Verma">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">arun.verma@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/arunkumarverma</data>
+</node>
+<node id="Research Areas Power Electronics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Converters for Electric Vehicle Chargers and Renewable Energy">
+  <data key="d7">research_area</data>
+</node>
+<node id="Renewable Integration Grid">
+  <data key="d7">research_area</data>
+</node>
+<node id="Smart Grid and Smart Buildings">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electric Vehicle (EV) Integration to Grid">
+  <data key="d7">research_area</data>
+</node>
+<node id="Bi-directional Power Flow. Research Interests Electric Vehicles infrastructure">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Arvind Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">arvind.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/arvindkumar</data>
+</node>
+<node id="Research Interests Number Theory (Modular forms">
+  <data key="d7">research_area</data>
+</node>
+<node id="Siegel modular forms">
+  <data key="d7">research_area</data>
+</node>
+<node id="Galois representations) Teaching Interests Algebra">
+  <data key="d7">research_area</data>
+</node>
+<node id="Analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Number Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Arvind Kumar Rajput">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">arvind.rajput@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/arvindkrajput</data>
+</node>
+<node id="Tribological aspects in Wind turbine">
+  <data key="d7">research_area</data>
+</node>
+<node id="TENG Teaching Interests: Mechanics of Solids">
+  <data key="d7">research_area</data>
+</node>
+<node id="Engineering Mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Machine Design">
+  <data key="d7">research_area</data>
+</node>
+<node id="Fundametals of Tribology.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Ashok Bera">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ashok.bera@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ashokbera</data>
+</node>
+<node id="Dr. Ashutosh Bijalwan">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">ashutosh.bijalwan@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ashutoshbijalwan</data>
+</node>
+<node id="Dr. Ashutosh Yadav">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ashutosh.yadav@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ashutoshyadav</data>
+</node>
+<node id="Research Interests Multiphase Reactors">
+  <data key="d7">research_area</data>
+</node>
+<node id="Machine Learning">
+  <data key="d7">research_area</data>
+</node>
+<node id="Process Optimization">
+  <data key="d7">research_area</data>
+</node>
+<node id="Petroleum Refining">
+  <data key="d7">research_area</data>
+</node>
+<node id="Environmental Engineering Teaching Interests Artificial Intelligence for Chemical Engineers">
+  <data key="d7">research_area</data>
+</node>
+<node id="Transport Phenomena">
+  <data key="d7">research_area</data>
+</node>
+<node id="Process Design and Economics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Avinash Raulo">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">avinash.raulo@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/avinashraulo</data>
+</node>
+<node id="Structure and Property of Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Polymers">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nano Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Material Characterization">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electrochemistry">
+  <data key="d7">research_area</data>
+</node>
+<node id="Prof. Bacham Eswar Reddy">
+  <data key="d7">faculty</data>
+  <data key="d9">Professor</data>
+  <data key="d10">bacham.reddy@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/bachameswarreddy</data>
+</node>
+<node id="Teaching basic astronomy and stellar evolution">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Badri Narayan Subudhi">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">subudhi.badri@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/badrinsubudhi</data>
+</node>
+<node id="Website: https://sites.google.com/view/badrisubudhi/home">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Biswanath Chakraborty">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">biswanath.chakraborty@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/biswanathchakraborty</data>
+</node>
+<node id="Research Interests Device Physics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Optics and Photonics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Spectroscopy Teaching Interests Electrodynamics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Quantum mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Solid state physics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Chandan Yadav">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">chandan.yadav@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/chandanyadav</data>
+</node>
+<node id="Dr. Chembolu Vinay">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">chembolu.vinay@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/chemboluvinay</data>
+</node>
+<node id="Fluid Mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="River Engineering and Morphodynamics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Hydrology and Irrigation Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Deepak Yadav">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">deepak.yadav@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/deepakyadav</data>
+</node>
+<node id="Research Area: Seismic Response Control">
+  <data key="d7">research_area</data>
+</node>
+<node id="Supplemental Energy Dissipation Devices">
+  <data key="d7">research_area</data>
+</node>
+<node id="Seismic Dampers">
+  <data key="d7">research_area</data>
+</node>
+<node id="Aluminum">
+  <data key="d7">research_area</data>
+</node>
+<node id="Steel Design Teaching Interests: Structural Dynamics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Behavior of Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Steel and RCC Design">
+  <data key="d7">research_area</data>
+</node>
+<node id="Structural Analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Earthquake Resistant Design of Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Devi Lal">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">devi.lal@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/devilal</data>
+</node>
+<node id="Research Areas Development of small-scale mechanical testing">
+  <data key="d7">research_area</data>
+</node>
+<node id="High Temperature Protective Coatings (TBC">
+  <data key="d7">research_area</data>
+</node>
+<node id="EBC etc.)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Processing of materials using thermal and cold spray">
+  <data key="d7">research_area</data>
+</node>
+<node id="Finite element analysis Teaching Interests Mechanical Behavior of Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Dhanendra Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">dhanendra.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/dhanendrakumar</data>
+</node>
+<node id="Building Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Concrete Technology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Advanced Concrete Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Dharitri Rath">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">dharitri.rath@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/dharitrirath</data>
+</node>
+<node id="Research Interests Bio-engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Affordable Healthcare">
+  <data key="d7">research_area</data>
+</node>
+<node id="Transport Phenomenon">
+  <data key="d7">research_area</data>
+</node>
+<node id="Reaction Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Divyesh Varade">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">divyesh.varade@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/divyeshvarade</data>
+</node>
+<node id="Dr. Dnyaneshwar Ramloo Bhawangirkar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">dnyaneshwar.bhawangirkar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/dnyaneshwarramloobhawangirkar</data>
+</node>
+<node id="Dr. Durai Prabhakaran R T">
+  <data key="d7">faculty</data>
+  <data key="d9">Professor</data>
+  <data key="d10">durai.prabhakaran@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/rtduraiprabhakaran</data>
+</node>
+<node id="Dr. Garima Singh">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">garima.singh@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/garimasingh</data>
+</node>
+<node id="with a particular focus on the neural mechanisms underlying reward processing">
+  <data key="d7">research_area</data>
+</node>
+<node id="decision-making">
+  <data key="d7">research_area</data>
+</node>
+<node id="and aberrant behaviors in clinical versus healthy populations. Using advanced neuroimaging methods">
+  <data key="d7">research_area</data>
+</node>
+<node id="including EEG">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Singh pursues separate research in delay discounting">
+  <data key="d7">research_area</data>
+</node>
+<node id="metacognition">
+  <data key="d7">research_area</data>
+</node>
+<node id="and memory dynamics">
+  <data key="d7">research_area</data>
+</node>
+<node id="depression">
+  <data key="d7">research_area</data>
+</node>
+<node id="and substance misuse on brain function">
+  <data key="d7">research_area</data>
+</node>
+<node id="advancing interventions for mental health challenges and aberrant behaviors.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Gaurav Ashok Bhaduri">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">gaurav.bhaduri@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/gauravabhaduri</data>
+</node>
+<node id="Dr. Gaurav Varshney">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">gaurav.varshney@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/gauravvarshney</data>
+</node>
+<node id="Computer Science &amp; Engineering">
+  <data key="d7">department</data>
+</node>
+<node id="Anti-Phishing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Internet Security: Protocols and Policies">
+  <data key="d7">research_area</data>
+</node>
+<node id="Email Security">
+  <data key="d7">research_area</data>
+</node>
+<node id="Web Security">
+  <data key="d7">research_area</data>
+</node>
+<node id="Vulnerability Assessment">
+  <data key="d7">research_area</data>
+</node>
+<node id="Threat Modeling">
+  <data key="d7">research_area</data>
+</node>
+<node id="Network Security">
+  <data key="d7">research_area</data>
+</node>
+<node id="Cyber Frauds Teaching Interests: Network Security">
+  <data key="d7">research_area</data>
+</node>
+<node id="Cyber Security">
+  <data key="d7">research_area</data>
+</node>
+<node id="Basics of Cryptography">
+  <data key="d7">research_area</data>
+</node>
+<node id="Data Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Programming.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Goutam Dutta">
+  <data key="d7">faculty</data>
+  <data key="d9">Professor</data>
+  <data key="d10">goutam.dutta@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/goutamdutta</data>
+</node>
+<node id="Research Interests: Nuclear reactor thermal-hydraulics and kinetics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Numerical fluid flow and heat transfer Teaching Interests: Thermodynamics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Fluid mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Heat transfer">
+  <data key="d7">research_area</data>
+</node>
+<node id="Analytical and numerical methods">
+  <data key="d7">research_area</data>
+</node>
+<node id="Computational fluid dynamics and heat transfer">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Guru Brahamam Ramani">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">guru.ramani@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/gurubramani</data>
+</node>
+<node id="Research Interests: Asymmetric Synthesis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Alkyne &amp; Allene Chemistry">
+  <data key="d7">research_area</data>
+</node>
+<node id="Carbene Transfer Reactions">
+  <data key="d7">research_area</data>
+</node>
+<node id="Hypervalent Iodine Chemistry">
+  <data key="d7">research_area</data>
+</node>
+<node id="Organocatalysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Photoredox Catalysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="C-H Functionalization">
+  <data key="d7">research_area</data>
+</node>
+<node id="and Organoboranes. Teaching Interests: Organic Synthesis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Physical Organic Chemistry">
+  <data key="d7">research_area</data>
+</node>
+<node id="and Organometallics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Hardeep Singh">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">hardeep.singh@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/hardeepsingh</data>
+</node>
+<node id="Agricultural Economics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Applied Econometrics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Development Economics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Harkeerat Kaur">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">harkeerat.kaur@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/harkeeratkaur</data>
+</node>
+<node id="Research Interests: Computer Vision">
+  <data key="d7">research_area</data>
+</node>
+<node id="Image Processing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Biometrics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Visual Cryptography">
+  <data key="d7">research_area</data>
+</node>
+<node id="Blockchains">
+  <data key="d7">research_area</data>
+</node>
+<node id="Artificial Intelligence">
+  <data key="d7">research_area</data>
+</node>
+<node id="Data Privacy Teaching Interests: Design and Analysis of Algorithms">
+  <data key="d7">research_area</data>
+</node>
+<node id="Computer Vision">
+  <data key="d7">research_area</data>
+</node>
+<node id="Computer Graphics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Computer Architecture">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Hiranya Kishore Dey">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">hiranya.dey@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/hiranyakishoredey</data>
+</node>
+<node id="Dr. Ibhanchand Rath">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">ibhanchand.rath@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ibhanchandrath</data>
+</node>
+<node id="Power Electronics">
+  <data key="d7">research_area</data>
+</node>
+<node id="power systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="electric machines">
+  <data key="d7">research_area</data>
+</node>
+<node id="and control systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Jayaramulu Kolleboyina">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">jayaramulu.kolleboyina@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/jayaramulukolleboyina</data>
+</node>
+<node id="At the Indian Institute of Technology Jammu">
+  <data key="d7">research_area</data>
+</node>
+<node id="my academic contributions span both undergraduate and postgraduate levels">
+  <data key="d7">research_area</data>
+</node>
+<node id="with a strong focus on the chemistry of nanomaterials">
+  <data key="d7">research_area</data>
+</node>
+<node id="functional porous frameworks">
+  <data key="d7">research_area</data>
+</node>
+<node id="coordination chemistry">
+  <data key="d7">research_area</data>
+</node>
+<node id="inorganic">
+  <data key="d7">research_area</data>
+</node>
+<node id="properties">
+  <data key="d7">research_area</data>
+</node>
+<node id="environment">
+  <data key="d7">research_area</data>
+</node>
+<node id="structure">
+  <data key="d7">research_area</data>
+</node>
+<node id="chromatography">
+  <data key="d7">research_area</data>
+</node>
+<node id="and electrochemical methods relevant to research and industry.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Jigmi Basumatary">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">jigmi.basumatary@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/jigmibasumatary</data>
+</node>
+<node id="Dr. Joby Varghese">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">joby.varghese@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/jobyvarghese</data>
+</node>
+<node id="Areas of Research: Philosophy of Science">
+  <data key="d7">research_area</data>
+</node>
+<node id="Values in Science and Technology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Ethics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Epistemology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Ethics and Epistemology of nudging">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Kancharla Hari Krishna">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">kancharla.harikrishna@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/kancharlaharikrishna</data>
+</node>
+<node id="Research Areas Corrosion">
+  <data key="d7">research_area</data>
+</node>
+<node id="Anticorrosion Coatings">
+  <data key="d7">research_area</data>
+</node>
+<node id="Hot-dip galvanization">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electrodeposition of anticorrosion coatings Teaching Interests Corrosion &amp; Protection of Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Physical Metallurgy">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Kankat Ghosh">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">kankat.ghosh@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/kankatghosh</data>
+</node>
+<node id="Dr. Karan Nathwani">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">karan.nathwani@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/karannathwani</data>
+</node>
+<node id="Research Interests: Adaptive Signal Processing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Speech Processing etc.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Krishna Mohan Gupta">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">krishna.gupta@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/krishnamohangupta</data>
+</node>
+<node id="Dr. Kushmanda Saurav">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">saurav.kushmanda@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/kushmandasaurav</data>
+</node>
+<node id="Ms. Malvika Sharma">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">malvika.sharma@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/malvikasharma</data>
+</node>
+<node id="Ethnography- Methods and Approaches">
+  <data key="d7">research_area</data>
+</node>
+<node id="Gender and Fieldwork">
+  <data key="d7">research_area</data>
+</node>
+<node id="Sociology/Social Anthropology of Everyday Religion">
+  <data key="d7">research_area</data>
+</node>
+<node id="Borders and Boundaries">
+  <data key="d7">research_area</data>
+</node>
+<node id="Social Anthropology and Sociology- Key Approaches and Thinkers">
+  <data key="d7">research_area</data>
+</node>
+<node id="Prof. Manoj Singh Gaur">
+  <data key="d7">faculty</data>
+  <data key="d9">Professor (Director)</data>
+  <data key="d10">director@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/manojsinghgaur</data>
+</node>
+<node id="1. Networks on Chip (Fault Tolerant">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Meenakshi Rajeev">
+  <data key="d7">faculty</data>
+  <data key="d9">Professor</data>
+  <data key="d10">meenakshi.rajeev@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/meenakshirajeev</data>
+</node>
+<node id="Microeconomics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Macroeconomics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Game theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Industrial organisation.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Mir Faizan Ul Haq">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">mir.faizan@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/mirfaizanulhaq</data>
+</node>
+<node id="Research Interests Structural dynamics">
+  <data key="d7">research_area</data>
+</node>
+<node id="seismic base isolation">
+  <data key="d7">research_area</data>
+</node>
+<node id="small modular reactors">
+  <data key="d7">research_area</data>
+</node>
+<node id="large scale testing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Mithu Baidya">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">mithu.baidya@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/mithubaidya</data>
+</node>
+<node id="and it plays indispensable roles in almost all the known physiological processes. As a result">
+  <data key="d7">research_area</data>
+</node>
+<node id="biophysical">
+  <data key="d7">research_area</data>
+</node>
+<node id="chemogenetic">
+  <data key="d7">research_area</data>
+</node>
+<node id="Protein Biochemistry">
+  <data key="d7">research_area</data>
+</node>
+<node id="Molecular cell biology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Molecular Pharmacology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Molecular Parasitology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Moni Kumari">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">moni.kumari@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/monikumari</data>
+</node>
+<node id="Dr. Mrinmoy Bhattacharjee">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">mrinmoy.bhattacharjee@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/mrinmoybhattacharjee</data>
+</node>
+<node id="Dr. Muhammed Haneefa A.P.">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">muhammed.haneefa@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/muhammedhaneefaap</data>
+</node>
+<node id="Introduction to Sociological Imagination">
+  <data key="d7">research_area</data>
+</node>
+<node id="Ethnographic and Qualitative Research Methods">
+  <data key="d7">research_area</data>
+</node>
+<node id="Environmental Sociology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Social Stratification">
+  <data key="d7">research_area</data>
+</node>
+<node id="Foundational Thinkers in Social and Cultural Anthropology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Nalin Kumar Sharma">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">nalin.sharma@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/nalinkumarsharma</data>
+</node>
+<node id="Research Areas Control and Automation Research Interests Control Systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Robotics and Autonomous Systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Intelligent transportation Systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Navneet Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">navneet.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/navneetkumar</data>
+</node>
+<node id="Vision: Excellence in Research">
+  <data key="d7">research_area</data>
+</node>
+<node id="Teaching">
+  <data key="d7">research_area</data>
+</node>
+<node id="and grooming &amp; building of the future generation">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Nitesh Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">nitesh.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/niteshkumar</data>
+</node>
+<node id="Research Areas Biomaterials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Energy Materials Teaching Interests Materials Science and Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Extractive Metallurgy">
+  <data key="d7">research_area</data>
+</node>
+<node id="Biomaterials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Nitesh Singh Malan">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">nitesh.malan@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/niteshsinghmalan</data>
+</node>
+<node id="Neuroscience">
+  <data key="d7">research_area</data>
+</node>
+<node id="neurophysiology">
+  <data key="d7">research_area</data>
+</node>
+<node id="biomedical engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="brain–computer interfaces">
+  <data key="d7">research_area</data>
+</node>
+<node id="advanced EEG/MEG signal analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="biomedical instrumentation">
+  <data key="d7">research_area</data>
+</node>
+<node id="and AI in healthcare.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Nitin Joshi">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">nitin.joshi@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/nitinjoshi</data>
+</node>
+<node id="Water Resources Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Surface and Subsurface Hydrology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Nitin Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">nitin.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/nitinkumar</data>
+</node>
+<node id="Statistics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Stochastic Process">
+  <data key="d7">research_area</data>
+</node>
+<node id="Queueing Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Nityananda Sahu">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">nityananda.sahu@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/nityanandasahu</data>
+</node>
+<node id="Development of Fragmentation methods">
+  <data key="d7">research_area</data>
+</node>
+<node id="Large Molecules and Molecular Clusters">
+  <data key="d7">research_area</data>
+</node>
+<node id="Vibrational IR/Raman Spectroscopy">
+  <data key="d7">research_area</data>
+</node>
+<node id="Explicit Hydration">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electroweak Quantum Chemistry: Chirality and Parity Violation">
+  <data key="d7">research_area</data>
+</node>
+<node id="Quantum Tunnelling">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Padmini Singh">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">padmini.singh@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/padminisingh</data>
+</node>
+<node id="Research Areas Control and Automation Research Interests Robotics Control">
+  <data key="d7">research_area</data>
+</node>
+<node id="Network Control">
+  <data key="d7">research_area</data>
+</node>
+<node id="Power Control Teaching Interests Control System">
+  <data key="d7">research_area</data>
+</node>
+<node id="Power System">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Pankaj Chauhan">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">pankaj.chauhan@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/pankajchauhan</data>
+</node>
+<node id="Dr. Parveen Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">parveen.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/parveenkumar</data>
+</node>
+<node id="Research Areas Quantum Physics Research Interests Open Quantum Systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Quantum Measurements">
+  <data key="d7">research_area</data>
+</node>
+<node id="non-Hermitian Physics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Quantum Error Correction">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Pervaiz Fathima Khatoon M">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">pervaiz.khatoon@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/pervaizfathimakhatoonm</data>
+</node>
+<node id="Research Interests Fluid flow modelling in fracturing porous materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Fatigue modelling">
+  <data key="d7">research_area</data>
+</node>
+<node id="Life prediction">
+  <data key="d7">research_area</data>
+</node>
+<node id="Damage assessment in existing structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Solid mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Finite Element Method">
+  <data key="d7">research_area</data>
+</node>
+<node id="Fracture Mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Pothukuchi Harish">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">pothukuchi.harish@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/pothukuchiharish</data>
+</node>
+<node id="Dr. Prasant Singh">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">prasant.singh@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/prasantsingh</data>
+</node>
+<node id="Research Areas Coding Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Algebraic Geometry over Finite Fields Research Interests Algebraic Geometric Codes">
+  <data key="d7">research_area</data>
+</node>
+<node id="Finite Geometry Teaching Interests Calculus">
+  <data key="d7">research_area</data>
+</node>
+<node id="Linear Algebra">
+  <data key="d7">research_area</data>
+</node>
+<node id="Complex Analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Prasun Halder">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">prasun.halder@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/prasunhalder</data>
+</node>
+<node id="Dr. Pratik Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">pratik.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/pratikkumar</data>
+</node>
+<node id="Dr. Priyanka Mishra">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">priyanka.mishra@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/priyankamishra</data>
+</node>
+<node id="Power Systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Switchgear and protection devices">
+  <data key="d7">research_area</data>
+</node>
+<node id="Power System Operation and Control">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Priyatosh Jena">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">priyatosh.jena@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/priyatoshjena</data>
+</node>
+<node id="Digital Control of Power Converters">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electric Vehicle Technology and Charging Systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Network Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Power Converter Design">
+  <data key="d7">research_area</data>
+</node>
+<node id="Power Quality and FACTS Devices">
+  <data key="d7">research_area</data>
+</node>
+<node id="Renewable Energy Systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="and Switch Mode Power Supplies.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Quleen Kaur Bijral">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">quleen.kaur@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/quleenkaurbijral</data>
+</node>
+<node id="Subaltern Studies and Historiography. Postcolonialism .">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Rahul Dattatraya Kitture">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">rahul.kitture@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/rahuldattatrayakitture</data>
+</node>
+<node id="Dr. Rahul R Salunkhe">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">rahul.salunkhe@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/rahulrsalunkhe</data>
+</node>
+<node id="Research Interests: Solid State Physics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Material Science">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nanotechnology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Ultracapacitor">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nanoporous Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Solid-state batteries">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Rajendra Kumar Varma">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">rajendra.varma@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/rajendrakvarma</data>
+</node>
+<node id="CFRP confined concrete">
+  <data key="d7">research_area</data>
+</node>
+<node id="Cyclic Constitutive modeling">
+  <data key="d7">research_area</data>
+</node>
+<node id="Seismic analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Computer aided analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Finite element analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Design of RCC and PSC">
+  <data key="d7">research_area</data>
+</node>
+<node id="Railway Bridges">
+  <data key="d7">research_area</data>
+</node>
+<node id="Numerical modeling">
+  <data key="d7">research_area</data>
+</node>
+<node id="Use of advanced materials in construction">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Rajiv Kumar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">rajiv.kumar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/rajivkumar</data>
+</node>
+<node id="Research Interests Combinatorial Commutative Algebra">
+  <data key="d7">research_area</data>
+</node>
+<node id="Commutative Algebra Teaching Interests Algebra">
+  <data key="d7">research_area</data>
+</node>
+<node id="Calculus">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Rajkumar V">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">rajkumar.v@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/vrajkumar</data>
+</node>
+<node id="Manufacturing Processes (I &amp; II)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Product Design">
+  <data key="d7">research_area</data>
+</node>
+<node id="Additive Manufacturing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Powder Bed Fusion">
+  <data key="d7">research_area</data>
+</node>
+<node id="Material Science for Additive Manufacturing.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Rani Rohini">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">rani.rohini@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ranirohini</data>
+</node>
+<node id="Research Interests HYBRID CARBON FIBER COMPOSITES">
+  <data key="d7">research_area</data>
+</node>
+<node id="NANOSTRUCTURED MATERIAL DESIGN FOR THERMAL MANAGEMENT">
+  <data key="d7">research_area</data>
+</node>
+<node id="DEVELOPMNET OF SUSTAINABLE POLYMER BASED COATINGS Teaching Interests POLYMERS">
+  <data key="d7">research_area</data>
+</node>
+<node id="MATERIALS CHARACTERIZATION">
+  <data key="d7">research_area</data>
+</node>
+<node id="COMPOSITE DESIGN">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Ravi Kumar Arun">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ravi.arun@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ravikumararun</data>
+</node>
+<node id="Research Interests Electrochemical Energy Storage">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Ravikant Saini">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">ravikant.saini@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/ravikantsaini</data>
+</node>
+<node id="Research Interests: Cooperative communication">
+  <data key="d7">research_area</data>
+</node>
+<node id="Resource allocation">
+  <data key="d7">research_area</data>
+</node>
+<node id="Physical layer security">
+  <data key="d7">research_area</data>
+</node>
+<node id="TeraHertz Communication Teaching Interests: Communication Engineering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Information Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Coding Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Wireless Communication">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Rimen Jamatia">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">rimen.jamatia@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/rimenjamatia</data>
+</node>
+<node id="Dr. Riya Bhowmik">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">riya.bhowmik@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/riyabhowmik</data>
+</node>
+<node id="Dr. Rohit Buddhiram Chaurasiya">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">rohit.chaurasiya@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/rohitbuddhiramchaurasiya</data>
+</node>
+<node id="Dr. Roshan Udaram Patil">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">roshan.patil@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/roshanudarampatil</data>
+</node>
+<node id="Research Interests XFEM">
+  <data key="d7">research_area</data>
+</node>
+<node id="Phase Field Method">
+  <data key="d7">research_area</data>
+</node>
+<node id="Multi-scale Method Teaching Interests Machine Design">
+  <data key="d7">research_area</data>
+</node>
+<node id="Mechanics of Solids">
+  <data key="d7">research_area</data>
+</node>
+<node id="Theory of Machines">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. S. R. K. Chaitanya Indukuri">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">chaitanya.indukuri@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/srkchaitanyaindukuri</data>
+</node>
+<node id="Research Areas Nanophotonics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nanoplasmonics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Hyperbolic metamaterials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nonlinear Optics">
+  <data key="d7">research_area</data>
+</node>
+<node id="and Condensed Matter Physics. Research Interests Hyperbolic Metamaterial applications">
+  <data key="d7">research_area</data>
+</node>
+<node id="Single plasmonic nanoparticle spectroscopy">
+  <data key="d7">research_area</data>
+</node>
+<node id="Optical Topological Quantum materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="and nonlinear optics of nanomaterials. Teaching Interests Quantum mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Waves and Oscillations">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electrodynamics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nanophotonics">
+  <data key="d7">research_area</data>
+</node>
+<node id="and plasmonics.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Sahil Kalra">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sahil.kalra@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sahilkalra</data>
+</node>
+<node id="My long terms standing goals are engineering product development">
+  <data key="d7">research_area</data>
+</node>
+<node id="and simulation">
+  <data key="d7">research_area</data>
+</node>
+<node id="Robotics and Control">
+  <data key="d7">research_area</data>
+</node>
+<node id="Mechatronics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Modal Analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Smart Materials and Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Mechanics of Shape Memory Alloys">
+  <data key="d7">research_area</data>
+</node>
+<node id="FE Analysis (Static">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dynamic">
+  <data key="d7">research_area</data>
+</node>
+<node id="Modal Analysis)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Reconfigurable Space Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electromagnetic RF Simulations">
+  <data key="d7">research_area</data>
+</node>
+<node id="Image Processing.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Samaresh Bera">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">samaresh.bera@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/samareshbera</data>
+</node>
+<node id="Research Areas SDN">
+  <data key="d7">research_area</data>
+</node>
+<node id="Network Slicing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Programmable Networks Teaching Interests Computer Networks">
+  <data key="d7">research_area</data>
+</node>
+<node id="Advanced Network Technology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Operating Systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Sameer Kumar Sarma Pachalla">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sameer.pachalla@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sameerksarmap</data>
+</node>
+<node id="Dr. Samrat Rao">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">samrat.rao@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/samratrao</data>
+</node>
+<node id="Dr. Sanat Kumar Tiwari">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">sanat.tiwari@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sanatktiwari</data>
+</node>
+<node id="Dr. Sanchita Srivastava">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sanchita.srivastava@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sanchitasrivastava</data>
+</node>
+<node id="Dr. Santhilal Subhash">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">santhilal.subhash@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/santhilalsubhash</data>
+</node>
+<node id="Our goal is to integrate high-dimensional data from genomics">
+  <data key="d7">research_area</data>
+</node>
+<node id="transcriptomics">
+  <data key="d7">research_area</data>
+</node>
+<node id="and epigenomics to predict how regulatory elements—such as enhancers">
+  <data key="d7">research_area</data>
+</node>
+<node id="promoters">
+  <data key="d7">research_area</data>
+</node>
+<node id="and long noncoding RNAs—govern gene expression in specific tissue contexts. To accomplish this">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Sarada Prasad Gochhayat">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sarada.gochhayat@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/saradaprasadgochhayat</data>
+</node>
+<node id="Research Areas Cloud computing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Blockchain">
+  <data key="d7">research_area</data>
+</node>
+<node id="Industrial Control System Security">
+  <data key="d7">research_area</data>
+</node>
+<node id="such as cloud storage">
+  <data key="d7">research_area</data>
+</node>
+<node id="5G and ToR. Teaching Interests Computer Networks">
+  <data key="d7">research_area</data>
+</node>
+<node id="Cryptography">
+  <data key="d7">research_area</data>
+</node>
+<node id="Network security">
+  <data key="d7">research_area</data>
+</node>
+<node id="Ad Hoc and Sensor Networks">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Sarah Mariam Abraham">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sarah.abraham@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sarahmariamabraham</data>
+</node>
+<node id="Research Areas Pavement Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Sartaj Ul Hasan">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">sartaj.hasan@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sartajulhasan</data>
+</node>
+<node id="https://sites.google.com/site/sartajulhasan/">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Satya Sekhar Bhogilla">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">satya.bhogilla@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/bsatyasekhar</data>
+</node>
+<node id="Dr. Satyadev Ahlawat">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">satyadev.ahlawat@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/satyadevahlawat</data>
+</node>
+<node id="Research Interests: VLSI Testing and Design-for-Testability (DfT)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Trusted System Design">
+  <data key="d7">research_area</data>
+</node>
+<node id="Hardware Security">
+  <data key="d7">research_area</data>
+</node>
+<node id="High Performance Processor Design Teaching Interests: VLSI Design and Test">
+  <data key="d7">research_area</data>
+</node>
+<node id="Cryptography and Hardware Security">
+  <data key="d7">research_area</data>
+</node>
+<node id="Semiconductor Device Physics and Technology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Saurabh Biswas">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">saurabh.biswas@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/saurabhbiswas</data>
+</node>
+<node id="Dr. Sayantan Mukherjee">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sayantan.mukherjee@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sayantanmukherjee</data>
+</node>
+<node id="Teaching Interests Cryptography">
+  <data key="d7">research_area</data>
+</node>
+<node id="Theory of Computation">
+  <data key="d7">research_area</data>
+</node>
+<node id="Algorithms">
+  <data key="d7">research_area</data>
+</node>
+<node id="Discrete Mathematics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Shafkat Shafi Dar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">shafkat.dar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/shafkatshafidar</data>
+</node>
+<node id="Research Interests Financial Inclusion">
+  <data key="d7">research_area</data>
+</node>
+<node id="Digital Financial Inclusion">
+  <data key="d7">research_area</data>
+</node>
+<node id="Gender and Economics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Institutional Economics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Environmental Economics. Teaching Interests Macroeconomics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Monetary economics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Applied econometrics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Indian economy.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Shaifu Gupta">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">shaifu.gupta@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/shaifugupta</data>
+</node>
+<node id="Research Interests Cloud computing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Machine learning">
+  <data key="d7">research_area</data>
+</node>
+<node id="Privacy issues in user profiling">
+  <data key="d7">research_area</data>
+</node>
+<node id="Large Language Models Teaching Interests Computer networks">
+  <data key="d7">research_area</data>
+</node>
+<node id="Data science">
+  <data key="d7">research_area</data>
+</node>
+<node id="Cloud computing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Data organization and Retrieval">
+  <data key="d7">research_area</data>
+</node>
+<node id="Cloud Security">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Shanmugadas K.P">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">shanmugadas.kp@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/shanmugadaskp</data>
+</node>
+<node id="Research Areas Atomization &amp; Sprays">
+  <data key="d7">research_area</data>
+</node>
+<node id="Gas turbine combustion">
+  <data key="d7">research_area</data>
+</node>
+<node id="Laser flow diagnostics Research Interests Fuel injector development for rocket and aero engines">
+  <data key="d7">research_area</data>
+</node>
+<node id="micro-gas turbine combustors">
+  <data key="d7">research_area</data>
+</node>
+<node id="Droplet impingement">
+  <data key="d7">research_area</data>
+</node>
+<node id="and wall filming Teaching Interests Engineering Thermodynamics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Atomization">
+  <data key="d7">research_area</data>
+</node>
+<node id="Combustion">
+  <data key="d7">research_area</data>
+</node>
+<node id="Heat and mass transfer">
+  <data key="d7">research_area</data>
+</node>
+<node id="Experimental methods for engineers">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Shantanu Vijay Madge">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">shantanu.madge@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/shantanuvmadge</data>
+</node>
+<node id="Mechanical Metallurgy">
+  <data key="d7">research_area</data>
+</node>
+<node id="Materials Processing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Wear and Surface Engineering (Tribology). Metal 3D Printing (Additive Manufacturing)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Cold Spray Deposition">
+  <data key="d7">research_area</data>
+</node>
+<node id="Rapid Solidification">
+  <data key="d7">research_area</data>
+</node>
+<node id="Amorphous Alloys">
+  <data key="d7">research_area</data>
+</node>
+<node id="High Entropy Alloys. Electron Microscopy (SEM/EBSD/TEM) and X-ray DIffraction of Materials.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Shikha Baghel">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">shikha.baghel@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/shikhabaghel</data>
+</node>
+<node id="Dr. Shirsendu Ghosh">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">shirsendu.ghosh@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/shirsendughosh</data>
+</node>
+<node id="Dr. Shirsha Bose">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">shirsha.bose@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/shirshabose</data>
+</node>
+<node id="Biomechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Biomedical Device Development">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Shiva S">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">shiva.sekar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/shivas</data>
+</node>
+<node id="Dr. Shivnath Mazumder">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">shivnath.mazumder@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/shivnathmazumder</data>
+</node>
+<node id="Dr. Sidharth Maheshwari">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sidharth.maheshwari@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sidharthmaheshwari</data>
+</node>
+<node id="Teaching Interests Computer Architecture">
+  <data key="d7">research_area</data>
+</node>
+<node id="Python">
+  <data key="d7">research_area</data>
+</node>
+<node id="Embedded Systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Sivakumar G">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sivakumar.g@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sivakumarg</data>
+</node>
+<node id="Dr. Soumyadip Das">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">soumyadip.das@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/soumyadipdas</data>
+</node>
+<node id="Research Area: Algebraic Geometry. Specifically: Covers of Curves">
+  <data key="d7">research_area</data>
+</node>
+<node id="Ramification Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Etale Fundamental Groups">
+  <data key="d7">research_area</data>
+</node>
+<node id="Algebraic Stacks">
+  <data key="d7">research_area</data>
+</node>
+<node id="Moduli Problems. Teaching Interests Algebra">
+  <data key="d7">research_area</data>
+</node>
+<node id="Algebraic Geometry">
+  <data key="d7">research_area</data>
+</node>
+<node id="Topology.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Sri Tapaswi Nori">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sri.nori@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sritapaswinori</data>
+</node>
+<node id="Dr. Srinivasan N">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">srinivasan.n@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/srinivasann</data>
+</node>
+<node id="Research Areas Rare-earth ceramics for functional applications">
+  <data key="d7">research_area</data>
+</node>
+<node id="Polymer derived ceramics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Material Characterization and Additive Manufacturing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Srishilan C">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">srishilan.c@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/srishilanc</data>
+</node>
+<node id="1. Metallurgical Thermodynamics 2. Metal Extraction 3. Iron and steel making 4. Transport Phenomena">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Subhas Samanta">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">subhas.samanta@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/subhassamanta</data>
+</node>
+<node id="Organometalic catalysis involving non-innocent ligands">
+  <data key="d7">research_area</data>
+</node>
+<node id="Bio-inspired transition metal catalysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Small molecule activation reaction">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Subhasis Bhattacharjee">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">subhasis.bhattacharjee@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/subhasisbhattacharjee</data>
+</node>
+<node id="Dr. Sudhakar Modem">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">sudhakar.modem@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sudhakarmodem</data>
+</node>
+<node id="Two-way relaying">
+  <data key="d7">research_area</data>
+</node>
+<node id="RF energy harvesting networks">
+  <data key="d7">research_area</data>
+</node>
+<node id="Cognitive radio networks">
+  <data key="d7">research_area</data>
+</node>
+<node id="image processing Teaching Interests: Digital communication">
+  <data key="d7">research_area</data>
+</node>
+<node id="Signal theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Estimation and Detection">
+  <data key="d7">research_area</data>
+</node>
+<node id="Wireless communication">
+  <data key="d7">research_area</data>
+</node>
+<node id="Information theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Digital design">
+  <data key="d7">research_area</data>
+</node>
+<node id="Control systems">
+  <data key="d7">research_area</data>
+</node>
+<node id="Multimedia signal processing">
+  <data key="d7">research_area</data>
+</node>
+<node id="others.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Sukanya Mondal">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sukanya.mondal@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sukanyamondal</data>
+</node>
+<node id="Dr. Suman Banerjee">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">suman.banerjee@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sumanbanerjee</data>
+</node>
+<node id="Research Interests Social an Information Network Analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Algorithmic Data Management">
+  <data key="d7">research_area</data>
+</node>
+<node id="Time Varying Graph Analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Graph Theory and Parameterized Complexity. Teaching Interests Algorithms">
+  <data key="d7">research_area</data>
+</node>
+<node id="Database">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Suman Sarkar">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">suman.sarkar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sumansarkar</data>
+</node>
+<node id="Research Areas Microwave Based Meta Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Energy Storage Alloys">
+  <data key="d7">research_area</data>
+</node>
+<node id="Rapid Prototyping and Non Equilibrium Processing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Magnetic Shape Memory Smart Alloys">
+  <data key="d7">research_area</data>
+</node>
+<node id="High Heat Flux Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Microstructure Modelling and Phase Transformation">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electron Microscopy">
+  <data key="d7">research_area</data>
+</node>
+<node id="Microstructure Modeling">
+  <data key="d7">research_area</data>
+</node>
+<node id="Energy Materials. Teaching Interests Thermodynamics of Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Characterization Techniques">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electronic Ceramics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Advanced Alloys">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Sumit Kumar Pandey">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sumit.pandey@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sumitkpandey</data>
+</node>
+<node id="Dr. Sunil Kumar Kashyap">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sunil.kashyap@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sunilkumarkashyap</data>
+</node>
+<node id="Research Areas Structural Ceramics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Powder Metallurgy">
+  <data key="d7">research_area</data>
+</node>
+<node id="High Temperature Properties">
+  <data key="d7">research_area</data>
+</node>
+<node id="Materials Characterization Research Interests Ultra-High Temperature Ceramic (UHTC) Composites">
+  <data key="d7">research_area</data>
+</node>
+<node id="Sintering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Oxidation">
+  <data key="d7">research_area</data>
+</node>
+<node id="Gel-Casting">
+  <data key="d7">research_area</data>
+</node>
+<node id="Rheology Teaching Interests Powder Metallurgy Ceramic Engineering Characterization of Materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Supriyo Chakraborty">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">supriyo.chakraborty@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/supriyochakraborty</data>
+</node>
+<node id="Dr. Surendra Beniwal">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">surendra.beniwal@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/surendrabeniwal</data>
+</node>
+<node id="Research Interests: Broad research interests: Ultrasonics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Structural health monitoring">
+  <data key="d7">research_area</data>
+</node>
+<node id="Computational Mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="and Micromechanics Interested in Applications including: Ultrasonic Nondestructive evaluation">
+  <data key="d7">research_area</data>
+</node>
+<node id="Subsurface imaging and characterization">
+  <data key="d7">research_area</data>
+</node>
+<node id="Numerical modeling of elastic wave propagation and scattering">
+  <data key="d7">research_area</data>
+</node>
+<node id="Homogenization of composite materials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Multiscale modeling Teaching Interests: Solid Mechanics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Steel Structures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Tanmay Sarkar">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">tanmay.sarkar@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/tanmaysarkar</data>
+</node>
+<node id="Research Area: Partial Differential Equations and Numerics. More precisely">
+  <data key="d7">research_area</data>
+</node>
+<node id="I am interested in hyperbolic conservation laws and numerics">
+  <data key="d7">research_area</data>
+</node>
+<node id="nonlinear dispersive equations">
+  <data key="d7">research_area</data>
+</node>
+<node id="degenerate convection-diffusion equations">
+  <data key="d7">research_area</data>
+</node>
+<node id="discontinuous Galerkin method for evolution equations">
+  <data key="d7">research_area</data>
+</node>
+<node id="Numerical Analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Real and Functional Analysis.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Uday Kiran Roopavath">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">uday.roopavath@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/udaykiranroopavath</data>
+</node>
+<node id="Biomaterials science">
+  <data key="d7">research_area</data>
+</node>
+<node id="Biodesign and biofabrication of artificial organs">
+  <data key="d7">research_area</data>
+</node>
+<node id="and Regulatory for medical devices.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Prof. Uma Satya Ranjan">
+  <data key="d7">faculty</data>
+  <data key="d9">Professor</data>
+  <data key="d10">uma.ranjan@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/umasatyaranjan</data>
+</node>
+<node id="Deep Learning">
+  <data key="d7">research_area</data>
+</node>
+<node id="Reinforcement Learning">
+  <data key="d7">research_area</data>
+</node>
+<node id="Biomedical Image Analysis">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Ved Prakash Ranjan">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">ved.ranjan@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/vedprakashranjan</data>
+</node>
+<node id="research and consultancy">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Venkata Sathish Akella">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">sathish.akella@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/sathishakella</data>
+</node>
+<node id="Classical Physics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Statistical Physics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Quantum Physics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Electromagnetic Theory">
+  <data key="d7">research_area</data>
+</node>
+<node id="Computational Physics Interfacial Phenomena">
+  <data key="d7">research_area</data>
+</node>
+<node id="Active Matter (Experimental and Computational)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Vijay Kumar Pal">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">vijay.pal@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/vijaykumarpal</data>
+</node>
+<node id="Research Interests: Conventional and non-conventional machining (Micro-EDM/ECM">
+  <data key="d7">research_area</data>
+</node>
+<node id="LASER machining etc.)">
+  <data key="d7">research_area</data>
+</node>
+<node id="Tribology">
+  <data key="d7">research_area</data>
+</node>
+<node id="machining of UHTCs">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nano technology">
+  <data key="d7">research_area</data>
+</node>
+<node id="super hydrophobic surfaces">
+  <data key="d7">research_area</data>
+</node>
+<node id="large area micro/nano texturing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Composites Teaching Interests: Manufacturing processes">
+  <data key="d7">research_area</data>
+</node>
+<node id="recent fabrication Methods">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Vinay Sharma">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">vinay.sharma@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/vinaysharma</data>
+</node>
+<node id="Bio-active nanomaterials">
+  <data key="d7">research_area</data>
+</node>
+<node id="Biosensors">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nanopore technology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nano-Theranostics">
+  <data key="d7">research_area</data>
+</node>
+<node id="Bioimaging probes">
+  <data key="d7">research_area</data>
+</node>
+<node id="Healthcare devices">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nanomedicine">
+  <data key="d7">research_area</data>
+</node>
+<node id="Anticancer nanotechnology">
+  <data key="d7">research_area</data>
+</node>
+<node id="Antimicrobial Resistance and Gene Therapy. Courses: 1) UG Level: Biology for Engineers">
+  <data key="d7">research_area</data>
+</node>
+<node id="Bioanalytical Methods">
+  <data key="d7">research_area</data>
+</node>
+<node id="Nanobiotechnology.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Recombinant DNA Technology 2) PG Level: Biosensors">
+  <data key="d7">research_area</data>
+</node>
+<node id="Biomedical nanostructures">
+  <data key="d7">research_area</data>
+</node>
+<node id="Biomaterials and Tissue Engineering.">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Vinit Jakhetiya">
+  <data key="d7">faculty</data>
+  <data key="d9">Associate Professor</data>
+  <data key="d10">vinit.jakhetiya@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/vinitjakhetiya</data>
+</node>
+<node id="Research Interests: Visual Quality Assessment">
+  <data key="d7">research_area</data>
+</node>
+<node id="Perceptual Signal Modeling">
+  <data key="d7">research_area</data>
+</node>
+<node id="Visual Perception">
+  <data key="d7">research_area</data>
+</node>
+<node id="Video and Medical Processing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Just Noticeable Difference">
+  <data key="d7">research_area</data>
+</node>
+<node id="3D Reconstruction">
+  <data key="d7">research_area</data>
+</node>
+<node id="Application of Machine/Deep Learning etc. Teaching Interests: Artificial Intelligence">
+  <data key="d7">research_area</data>
+</node>
+<node id="Machine/Deep Learning">
+  <data key="d7">research_area</data>
+</node>
+<node id="Digital Design">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Vivek B Raina">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">vivek.raina@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/vivekbraina</data>
+</node>
+<node id="Dr. Yamuna Prasad">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">yamuna.prasad@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/yamunaprasad</data>
+</node>
+<node id="Teaching Interests: Machine Learning">
+  <data key="d7">research_area</data>
+</node>
+<node id="Large Language Models">
+  <data key="d7">research_area</data>
+</node>
+<node id="and Soft Computing">
+  <data key="d7">research_area</data>
+</node>
+<node id="Dr. Yogesh Madhukarrao Nimdeo">
+  <data key="d7">faculty</data>
+  <data key="d9">Assistant Professor</data>
+  <data key="d10">yogesh.nimdeo@iitjammu.ac.in</data>
+  <data key="d11">https://iitjammu.ac.in/faculty/yogeshmadhukarraonimdeo</data>
+</node>
+<node id="optimization">
+  <data key="d7">research_area</data>
+</node>
+<edge source="IIT Jammu" target="CSE">
+  <data key="d12">HAS_DEPARTMENT</data>
+</edge>
+<edge source="IIT Jammu" target="ME">
+  <data key="d12">HAS_DEPARTMENT</data>
+</edge>
+<edge source="IIT Jammu" target="AREAS OF RESEARCH: S. No. Faculty Name Suggestive title of">
+  <data key="d12">RELATED_TO</data>
+</edge>
+<edge source="IIT Jammu" target="Electrical Engineering">
+  <data key="d12">HAS_DEPARTMENT</data>
+</edge>
+<edge source="IIT Jammu" target="EE">
+  <data key="d12">HAS_DEPARTMENT</data>
+</edge>
+<edge source="IIT Jammu" target="CE">
+  <data key="d12">HAS_DEPARTMENT</data>
+</edge>
+<edge source="IIT Jammu" target="CHE">
+  <data key="d12">HAS_DEPARTMENT</data>
+</edge>
+<edge source="IIT Jammu" target="PhD">
+  <data key="d12">OFFERS_PROGRAM</data>
+</edge>
+<edge source="IIT Jammu" target="hod.ee@iitjammu.ac.in">
+  <data key="d12">HAS_CONTACT</data>
+</edge>
+<edge source="IIT Jammu" target="PMRF">
+  <data key="d12">HAS_SCHOLARSHIP</data>
+</edge>
+<edge source="IIT Jammu" target="IIT Jammu">
+  <data key="d12">RELATED_TO</data>
+</edge>
+<edge source="IIT Jammu" target="subudhi.badri@iitjammu.ac.in">
+  <data key="d12">HAS_CONTACT</data>
+</edge>
+<edge source="IIT Jammu" target="Underwater Artificial Intelligence Lab | IIT Jammu">
+  <data key="d12">RELATED_TO</data>
+</edge>
+<edge source="IIT Jammu" target="IITJMU/Acad/2025/PG-1/311 25 March 2025 INDIAN INSTITUTE OF TECHNOLOGY JAMMU">
+  <data key="d12">RELATED_TO</data>
+</edge>
+<edge source="IIT Jammu" target="M.Tech Programmes">
+  <data key="d12">RELATED_TO</data>
+</edge>
+<edge source="IIT Jammu" target="Mathematics">
+  <data key="d12">HAS_DEPARTMENT</data>
+</edge>
+<edge source="IIT Jammu" target="M.Tech">
+  <data key="d12">OFFERS_PROGRAM</data>
+</edge>
+<edge source="IIT Jammu" target="MTech">
+  <data key="d12">OFFERS_PROGRAM</data>
+</edge>
+<edge source="IIT Jammu" target="dean.contedu@iitjammu.ac.in">
+  <data key="d12">HAS_CONTACT</data>
+</edge>
+<edge source="IIT Jammu" target="M.Tech in GenAI and Data Science (Executive)">
+  <data key="d12">RELATED_TO</data>
+</edge>
+<edge source="Prof. Abhay Sharma" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Prof. Abhay Sharma" target="Manufacturing Science">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Abhay Sharma" target="Material aspect of Manufacturing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Abhay Sharma" target="Welding Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Abhay Sharma" target="Process Modelling and Optimization">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Abhay Sharma" target="Computational Intelligence in Manufacturing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Abhay Sharma" target="Design of Steel Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Abhishek Kumar" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Abhishek Kumar" target="Research interests - Theoretical condensed matter physics Teaching interests - Solid State Physics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Abhishek Kumar" target="Statistical Mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Abhishek Kumar" target="Electromagnetic theory and Quantum Mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Mr. Abhishek Sharmata" target="Media Cell">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Research Areas 1. Atomistic and molecular modelling of materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="physical phenomenon and chemical reactions using following methods: Density Functional Theory (DFT)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Molecular Dynamics (MD)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Activation of methane to produce hydrogen and carbon nanotubes">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Catalytic dehydrogenation of propane to produce hydrogen and propene">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Atomic Layer Deposition of materials Teaching Interests">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Chemical Reaction Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Heterogeneous catalysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Petroleum Refinery Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Aditya Shankar Sandupatla" target="Process Dynamics and Control">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ajay Gautam" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ajay Kumar" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ajay Kumar" target="Commutative Algebra Combinatorics Teaching Interests: Algebra">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ajay Kumar" target="Graph Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ajay Kumar" target="Topology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ajay Singh" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ajeet Kumar Sharma" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ajeet Kumar Sharma" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ajeet Kumar Sharma" target="Biophysics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ajeet Kumar Sharma" target="Non-equilibrium statistical mechanics and Biophysics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Akash Subhash Awale" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Alok Kumar Saxena" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ambika Prasad Shah" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Teaching Interests Cognitive Science">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Philosophy of Mind">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Experimental Methods">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Usability">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Human-Agent Interaction">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Multimodal Communication Research Interests Cognitive Science">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Visual Metaphors">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Creativity">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Multi-modal Communication">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Usability Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amitash Ojha" target="Human and Artificial Intelligence">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amlan Kumar Pal" target="Chemistry">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Amlan Kumar Pal" target="Courses tutored and staff demonstrated at University of St Andrews">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Amrita Chatterjee" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Angshuman Kapil" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Anil Kumar Paidi" target="Inter Disciplinary Program">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Anil Kumar Paidi" target="Chemistry">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ankit Dubey" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ankit Dubey" target="Mr. Abhishek (2018UCS)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankit Kathuria" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ankit Kathuria" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ankit Tyagi" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ankit Tyagi" target="Research Interests Synthesis of layered 2D nanomaterials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankit Tyagi" target="and metal oxides Synthesis of functional polymer fibers: Electrospinning">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankit Tyagi" target="and wet-spinning techniques Electrochemical applications: Supercapacitors">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankit Tyagi" target="Batteries">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankit Tyagi" target="Electro-catalysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankit Tyagi" target="Heat Transfer">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankur Bansal" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ankur Bansal" target="Digital Communication">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankur Bansal" target="Signal Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankur Bansal" target="Wireless Communications">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ankur Bansal" target="Detection and Estimation Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Anup Shukla" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Anurag Misra" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Anurag Misra" target="Research Interests Utilisation of wastes in concrete">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Anurag Misra" target="improvements in cover-zone properties of concrete">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Anurag Misra" target="Performance of High strength steel-concrete composite sections. Polymer composites">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Anurag Misra" target="High strength steel welding Teaching Interests Strength of Materials and Theory of Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Anurag Misra" target="Design of Concrete Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Anurag Misra" target="Design of Steel structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Anurag Misra" target="Pre-stressed Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Anurag Misra" target="Bridge Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Research Areas Cloaking/Invisbility">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Frequency Selective Surfaces">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Transformation Optics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Antennas">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Metamaterials Teaching Interests Electromagnetics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Network Analysis And Synthesis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Basic Electronics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Microwave Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Archana Rajput" target="Antenna Theory And Design">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arpita Paul" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Arpita Paul" target="Research Areas First-principles quantum theoretical modelling of advanced functional materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arun Kumar Verma" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Arun Kumar Verma" target="Research Areas Power Electronics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arun Kumar Verma" target="Converters for Electric Vehicle Chargers and Renewable Energy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arun Kumar Verma" target="Renewable Integration Grid">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arun Kumar Verma" target="Smart Grid and Smart Buildings">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arun Kumar Verma" target="Electric Vehicle (EV) Integration to Grid">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arun Kumar Verma" target="Bi-directional Power Flow. Research Interests Electric Vehicles infrastructure">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Arvind Kumar" target="Research Interests Number Theory (Modular forms">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar" target="Siegel modular forms">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar" target="Galois representations) Teaching Interests Algebra">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar" target="Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar" target="Number Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar Rajput" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Arvind Kumar Rajput" target="Tribological aspects in Wind turbine">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar Rajput" target="TENG Teaching Interests: Mechanics of Solids">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar Rajput" target="Engineering Mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar Rajput" target="Machine Design">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Arvind Kumar Rajput" target="Fundametals of Tribology.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ashok Bera" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ashutosh Bijalwan" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ashutosh Yadav" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ashutosh Yadav" target="Research Interests Multiphase Reactors">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ashutosh Yadav" target="Machine Learning">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ashutosh Yadav" target="Process Optimization">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ashutosh Yadav" target="Petroleum Refining">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ashutosh Yadav" target="Environmental Engineering Teaching Interests Artificial Intelligence for Chemical Engineers">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ashutosh Yadav" target="Chemical Reaction Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ashutosh Yadav" target="Transport Phenomena">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ashutosh Yadav" target="Process Design and Economics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Avinash Raulo" target="Inter Disciplinary Program">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Avinash Raulo" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Avinash Raulo" target="Structure and Property of Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Avinash Raulo" target="Polymers">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Avinash Raulo" target="Nano Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Avinash Raulo" target="Material Characterization">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Avinash Raulo" target="Electrochemistry">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Bacham Eswar Reddy" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Prof. Bacham Eswar Reddy" target="Teaching basic astronomy and stellar evolution">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Badri Narayan Subudhi" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Badri Narayan Subudhi" target="Website: https://sites.google.com/view/badrisubudhi/home">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Biswanath Chakraborty" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Biswanath Chakraborty" target="Research Interests Device Physics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Biswanath Chakraborty" target="Optics and Photonics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Biswanath Chakraborty" target="Spectroscopy Teaching Interests Electrodynamics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Biswanath Chakraborty" target="Quantum mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Biswanath Chakraborty" target="Solid state physics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Chandan Yadav" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Chembolu Vinay" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Chembolu Vinay" target="Fluid Mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Chembolu Vinay" target="River Engineering and Morphodynamics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Chembolu Vinay" target="Hydrology and Irrigation Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Research Area: Seismic Response Control">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Supplemental Energy Dissipation Devices">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Seismic Dampers">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Aluminum">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Steel Design Teaching Interests: Structural Dynamics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Behavior of Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Steel and RCC Design">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Structural Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Deepak Yadav" target="Earthquake Resistant Design of Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Devi Lal" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Devi Lal" target="Research Areas Development of small-scale mechanical testing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Devi Lal" target="High Temperature Protective Coatings (TBC">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Devi Lal" target="EBC etc.)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Devi Lal" target="Processing of materials using thermal and cold spray">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Devi Lal" target="Finite element analysis Teaching Interests Mechanical Behavior of Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Dhanendra Kumar" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Dhanendra Kumar" target="Building Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Dhanendra Kumar" target="Concrete Technology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Dhanendra Kumar" target="Advanced Concrete Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Dharitri Rath" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Dharitri Rath" target="Research Interests Bio-engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Dharitri Rath" target="Affordable Healthcare">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Dharitri Rath" target="Transport Phenomenon">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Dharitri Rath" target="Reaction Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Divyesh Varade" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Dnyaneshwar Ramloo Bhawangirkar" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Durai Prabhakaran R T" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Durai Prabhakaran R T" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Garima Singh" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Garima Singh" target="with a particular focus on the neural mechanisms underlying reward processing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Garima Singh" target="decision-making">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Garima Singh" target="and aberrant behaviors in clinical versus healthy populations. Using advanced neuroimaging methods">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Garima Singh" target="including EEG">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Garima Singh" target="Dr. Singh pursues separate research in delay discounting">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Garima Singh" target="metacognition">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Garima Singh" target="and memory dynamics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Garima Singh" target="depression">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Garima Singh" target="and substance misuse on brain function">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Garima Singh" target="advancing interventions for mental health challenges and aberrant behaviors.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Ashok Bhaduri" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Gaurav Ashok Bhaduri" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Anti-Phishing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Internet Security: Protocols and Policies">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Email Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Web Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Vulnerability Assessment">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Threat Modeling">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Network Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Cyber Frauds Teaching Interests: Network Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Cyber Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Basics of Cryptography">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Data Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Gaurav Varshney" target="Programming.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Goutam Dutta" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Goutam Dutta" target="Research Interests: Nuclear reactor thermal-hydraulics and kinetics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Goutam Dutta" target="Numerical fluid flow and heat transfer Teaching Interests: Thermodynamics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Goutam Dutta" target="Fluid mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Goutam Dutta" target="Heat transfer">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Goutam Dutta" target="Analytical and numerical methods">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Goutam Dutta" target="Computational fluid dynamics and heat transfer">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="Chemistry">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="Research Interests: Asymmetric Synthesis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="Alkyne &amp; Allene Chemistry">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="Carbene Transfer Reactions">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="Hypervalent Iodine Chemistry">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="Organocatalysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="Photoredox Catalysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="C-H Functionalization">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="and Organoboranes. Teaching Interests: Organic Synthesis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="Physical Organic Chemistry">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Guru Brahamam Ramani" target="and Organometallics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Hardeep Singh" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Hardeep Singh" target="Agricultural Economics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Hardeep Singh" target="Applied Econometrics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Hardeep Singh" target="Development Economics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Research Interests: Computer Vision">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Image Processing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Biometrics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Visual Cryptography">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Blockchains">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Artificial Intelligence">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Data Privacy Teaching Interests: Design and Analysis of Algorithms">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Computer Vision">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Computer Graphics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Harkeerat Kaur" target="Computer Architecture">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Hiranya Kishore Dey" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ibhanchand Rath" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ibhanchand Rath" target="Power Electronics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ibhanchand Rath" target="power systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ibhanchand Rath" target="electric machines">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ibhanchand Rath" target="and control systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="Chemistry">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="At the Indian Institute of Technology Jammu">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="my academic contributions span both undergraduate and postgraduate levels">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="with a strong focus on the chemistry of nanomaterials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="functional porous frameworks">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="coordination chemistry">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="inorganic">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="properties">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="environment">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="structure">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="chromatography">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jayaramulu Kolleboyina" target="and electrochemical methods relevant to research and industry.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Jigmi Basumatary" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Joby Varghese" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Joby Varghese" target="Areas of Research: Philosophy of Science">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Joby Varghese" target="Values in Science and Technology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Joby Varghese" target="Ethics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Joby Varghese" target="Epistemology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Joby Varghese" target="Ethics and Epistemology of nudging">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Kancharla Hari Krishna" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Kancharla Hari Krishna" target="Research Areas Corrosion">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Kancharla Hari Krishna" target="Anticorrosion Coatings">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Kancharla Hari Krishna" target="Hot-dip galvanization">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Kancharla Hari Krishna" target="Electrodeposition of anticorrosion coatings Teaching Interests Corrosion &amp; Protection of Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Kancharla Hari Krishna" target="Physical Metallurgy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Kankat Ghosh" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Karan Nathwani" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Karan Nathwani" target="Research Interests: Adaptive Signal Processing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Karan Nathwani" target="Speech Processing etc.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Krishna Mohan Gupta" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Kushmanda Saurav" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Ms. Malvika Sharma" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Ms. Malvika Sharma" target="Ethnography- Methods and Approaches">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Ms. Malvika Sharma" target="Gender and Fieldwork">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Ms. Malvika Sharma" target="Sociology/Social Anthropology of Everyday Religion">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Ms. Malvika Sharma" target="Borders and Boundaries">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Ms. Malvika Sharma" target="Social Anthropology and Sociology- Key Approaches and Thinkers">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Manoj Singh Gaur" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Prof. Manoj Singh Gaur" target="1. Networks on Chip (Fault Tolerant">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Meenakshi Rajeev" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Meenakshi Rajeev" target="Microeconomics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Meenakshi Rajeev" target="Macroeconomics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Meenakshi Rajeev" target="Game theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Meenakshi Rajeev" target="Industrial organisation.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mir Faizan Ul Haq" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Mir Faizan Ul Haq" target="Research Interests Structural dynamics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mir Faizan Ul Haq" target="seismic base isolation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mir Faizan Ul Haq" target="small modular reactors">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mir Faizan Ul Haq" target="large scale testing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mithu Baidya" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Mithu Baidya" target="and it plays indispensable roles in almost all the known physiological processes. As a result">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mithu Baidya" target="biophysical">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mithu Baidya" target="chemogenetic">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mithu Baidya" target="Protein Biochemistry">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mithu Baidya" target="Molecular cell biology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mithu Baidya" target="Molecular Pharmacology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Mithu Baidya" target="Molecular Parasitology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Moni Kumari" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Mrinmoy Bhattacharjee" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Muhammed Haneefa A.P." target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Muhammed Haneefa A.P." target="Introduction to Sociological Imagination">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Muhammed Haneefa A.P." target="Ethnographic and Qualitative Research Methods">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Muhammed Haneefa A.P." target="Environmental Sociology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Muhammed Haneefa A.P." target="Social Stratification">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Muhammed Haneefa A.P." target="Foundational Thinkers in Social and Cultural Anthropology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nalin Kumar Sharma" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Nalin Kumar Sharma" target="Research Areas Control and Automation Research Interests Control Systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nalin Kumar Sharma" target="Robotics and Autonomous Systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nalin Kumar Sharma" target="Intelligent transportation Systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Navneet Kumar" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Navneet Kumar" target="Vision: Excellence in Research">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Navneet Kumar" target="Teaching">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Navneet Kumar" target="and grooming &amp; building of the future generation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Kumar" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Nitesh Kumar" target="Research Areas Biomaterials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Kumar" target="Energy Materials Teaching Interests Materials Science and Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Kumar" target="Physical Metallurgy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Kumar" target="Extractive Metallurgy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Kumar" target="Biomaterials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Singh Malan" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Nitesh Singh Malan" target="Neuroscience">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Singh Malan" target="neurophysiology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Singh Malan" target="biomedical engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Singh Malan" target="brain–computer interfaces">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Singh Malan" target="advanced EEG/MEG signal analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Singh Malan" target="biomedical instrumentation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitesh Singh Malan" target="and AI in healthcare.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitin Joshi" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Nitin Joshi" target="Water Resources Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitin Joshi" target="Surface and Subsurface Hydrology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitin Kumar" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Nitin Kumar" target="Statistics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitin Kumar" target="Stochastic Process">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nitin Kumar" target="Queueing Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nityananda Sahu" target="Chemistry">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Nityananda Sahu" target="Development of Fragmentation methods">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nityananda Sahu" target="Large Molecules and Molecular Clusters">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nityananda Sahu" target="Vibrational IR/Raman Spectroscopy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nityananda Sahu" target="Explicit Hydration">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nityananda Sahu" target="Electroweak Quantum Chemistry: Chirality and Parity Violation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Nityananda Sahu" target="Quantum Tunnelling">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Padmini Singh" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Padmini Singh" target="Research Areas Control and Automation Research Interests Robotics Control">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Padmini Singh" target="Network Control">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Padmini Singh" target="Power Control Teaching Interests Control System">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Padmini Singh" target="Power System">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pankaj Chauhan" target="Chemistry">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Parveen Kumar" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Parveen Kumar" target="Research Areas Quantum Physics Research Interests Open Quantum Systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Parveen Kumar" target="Quantum Measurements">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Parveen Kumar" target="non-Hermitian Physics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Parveen Kumar" target="Quantum Error Correction">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pervaiz Fathima Khatoon M" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Pervaiz Fathima Khatoon M" target="Research Interests Fluid flow modelling in fracturing porous materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pervaiz Fathima Khatoon M" target="Fatigue modelling">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pervaiz Fathima Khatoon M" target="Life prediction">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pervaiz Fathima Khatoon M" target="Damage assessment in existing structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pervaiz Fathima Khatoon M" target="Structural Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pervaiz Fathima Khatoon M" target="Solid mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pervaiz Fathima Khatoon M" target="Finite Element Method">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pervaiz Fathima Khatoon M" target="Fracture Mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Pothukuchi Harish" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Prasant Singh" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Prasant Singh" target="Research Areas Coding Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Prasant Singh" target="Algebraic Geometry over Finite Fields Research Interests Algebraic Geometric Codes">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Prasant Singh" target="Finite Geometry Teaching Interests Calculus">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Prasant Singh" target="Linear Algebra">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Prasant Singh" target="Complex Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Prasant Singh" target="Topology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Prasun Halder" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Pratik Kumar" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Priyanka Mishra" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Priyanka Mishra" target="Power Systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Priyanka Mishra" target="Switchgear and protection devices">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Priyanka Mishra" target="Power System Operation and Control">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Priyatosh Jena" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Priyatosh Jena" target="Digital Control of Power Converters">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Priyatosh Jena" target="Electric Vehicle Technology and Charging Systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Priyatosh Jena" target="Network Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Priyatosh Jena" target="Power Converter Design">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Priyatosh Jena" target="Power Quality and FACTS Devices">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Priyatosh Jena" target="Renewable Energy Systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Priyatosh Jena" target="and Switch Mode Power Supplies.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Quleen Kaur Bijral" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Quleen Kaur Bijral" target="Subaltern Studies and Historiography. Postcolonialism .">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rahul Dattatraya Kitture" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Rahul R Salunkhe" target="Inter Disciplinary Program">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Rahul R Salunkhe" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Rahul R Salunkhe" target="Research Interests: Solid State Physics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rahul R Salunkhe" target="Material Science">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rahul R Salunkhe" target="Nanotechnology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rahul R Salunkhe" target="Ultracapacitor">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rahul R Salunkhe" target="Nanoporous Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rahul R Salunkhe" target="Solid-state batteries">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="CFRP confined concrete">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="Cyclic Constitutive modeling">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="Seismic analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="Computer aided analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="Finite element analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="Design of RCC and PSC">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="Railway Bridges">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="Numerical modeling">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajendra Kumar Varma" target="Use of advanced materials in construction">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajiv Kumar" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Rajiv Kumar" target="Research Interests Combinatorial Commutative Algebra">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajiv Kumar" target="Commutative Algebra Teaching Interests Algebra">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajiv Kumar" target="Linear Algebra">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajiv Kumar" target="Calculus">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajkumar V" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Rajkumar V" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Rajkumar V" target="Manufacturing Processes (I &amp; II)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajkumar V" target="Product Design">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajkumar V" target="Additive Manufacturing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajkumar V" target="Powder Bed Fusion">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rajkumar V" target="Material Science for Additive Manufacturing.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rani Rohini" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Rani Rohini" target="Research Interests HYBRID CARBON FIBER COMPOSITES">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rani Rohini" target="NANOSTRUCTURED MATERIAL DESIGN FOR THERMAL MANAGEMENT">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rani Rohini" target="DEVELOPMNET OF SUSTAINABLE POLYMER BASED COATINGS Teaching Interests POLYMERS">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rani Rohini" target="MATERIALS CHARACTERIZATION">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rani Rohini" target="COMPOSITE DESIGN">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravi Kumar Arun" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ravi Kumar Arun" target="Research Interests Electrochemical Energy Storage">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="Research Interests: Cooperative communication">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="Resource allocation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="Physical layer security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="TeraHertz Communication Teaching Interests: Communication Engineering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="Digital Communication">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="Information Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="Coding Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="Signal Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ravikant Saini" target="Wireless Communication">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Rimen Jamatia" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Riya Bhowmik" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Rohit Buddhiram Chaurasiya" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Roshan Udaram Patil" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Roshan Udaram Patil" target="Research Interests XFEM">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Roshan Udaram Patil" target="Phase Field Method">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Roshan Udaram Patil" target="Multi-scale Method Teaching Interests Machine Design">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Roshan Udaram Patil" target="Mechanics of Solids">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Roshan Udaram Patil" target="Theory of Machines">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Roshan Udaram Patil" target="Finite Element Method">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Research Areas Nanophotonics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Nanoplasmonics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Hyperbolic metamaterials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Nonlinear Optics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="and Condensed Matter Physics. Research Interests Hyperbolic Metamaterial applications">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Single plasmonic nanoparticle spectroscopy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Optical Topological Quantum materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="and nonlinear optics of nanomaterials. Teaching Interests Quantum mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Waves and Oscillations">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Electrodynamics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Solid state physics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="Nanophotonics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. S. R. K. Chaitanya Indukuri" target="and plasmonics.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="My long terms standing goals are engineering product development">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="and simulation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Robotics and Control">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Mechatronics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Modal Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Smart Materials and Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Mechanics of Shape Memory Alloys">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="FE Analysis (Static">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Dynamic">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Modal Analysis)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Reconfigurable Space Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Electromagnetic RF Simulations">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sahil Kalra" target="Image Processing.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Samaresh Bera" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Samaresh Bera" target="Research Areas SDN">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Samaresh Bera" target="Network Slicing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Samaresh Bera" target="Programmable Networks Teaching Interests Computer Networks">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Samaresh Bera" target="Advanced Network Technology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Samaresh Bera" target="Network Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Samaresh Bera" target="Operating Systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sameer Kumar Sarma Pachalla" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Samrat Rao" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sanat Kumar Tiwari" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sanchita Srivastava" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Santhilal Subhash" target="Inter Disciplinary Program">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Santhilal Subhash" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Santhilal Subhash" target="Our goal is to integrate high-dimensional data from genomics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Santhilal Subhash" target="transcriptomics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Santhilal Subhash" target="and epigenomics to predict how regulatory elements—such as enhancers">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Santhilal Subhash" target="promoters">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Santhilal Subhash" target="and long noncoding RNAs—govern gene expression in specific tissue contexts. To accomplish this">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sarada Prasad Gochhayat" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sarada Prasad Gochhayat" target="Research Areas Cloud computing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sarada Prasad Gochhayat" target="Blockchain">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sarada Prasad Gochhayat" target="Industrial Control System Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sarada Prasad Gochhayat" target="such as cloud storage">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sarada Prasad Gochhayat" target="5G and ToR. Teaching Interests Computer Networks">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sarada Prasad Gochhayat" target="Cryptography">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sarada Prasad Gochhayat" target="Network security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sarada Prasad Gochhayat" target="Ad Hoc and Sensor Networks">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sarah Mariam Abraham" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sarah Mariam Abraham" target="Research Areas Pavement Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sartaj Ul Hasan" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sartaj Ul Hasan" target="https://sites.google.com/site/sartajulhasan/">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Satya Sekhar Bhogilla" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Satyadev Ahlawat" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Satyadev Ahlawat" target="Research Interests: VLSI Testing and Design-for-Testability (DfT)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Satyadev Ahlawat" target="Trusted System Design">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Satyadev Ahlawat" target="Hardware Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Satyadev Ahlawat" target="High Performance Processor Design Teaching Interests: VLSI Design and Test">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Satyadev Ahlawat" target="Cryptography and Hardware Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Satyadev Ahlawat" target="Semiconductor Device Physics and Technology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Satyadev Ahlawat" target="Computer Architecture">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Saurabh Biswas" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sayantan Mukherjee" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sayantan Mukherjee" target="Teaching Interests Cryptography">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sayantan Mukherjee" target="Theory of Computation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sayantan Mukherjee" target="Algorithms">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sayantan Mukherjee" target="Discrete Mathematics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Research Interests Financial Inclusion">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Digital Financial Inclusion">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Gender and Economics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Institutional Economics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Environmental Economics. Teaching Interests Macroeconomics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Monetary economics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Microeconomics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Applied econometrics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shafkat Shafi Dar" target="Indian economy.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shaifu Gupta" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Shaifu Gupta" target="Research Interests Cloud computing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shaifu Gupta" target="Machine learning">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shaifu Gupta" target="Privacy issues in user profiling">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shaifu Gupta" target="Large Language Models Teaching Interests Computer networks">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shaifu Gupta" target="Data science">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shaifu Gupta" target="Cloud computing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shaifu Gupta" target="Data organization and Retrieval">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shaifu Gupta" target="Cloud Security">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="Research Areas Atomization &amp; Sprays">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="Gas turbine combustion">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="Laser flow diagnostics Research Interests Fuel injector development for rocket and aero engines">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="micro-gas turbine combustors">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="Droplet impingement">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="and wall filming Teaching Interests Engineering Thermodynamics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="Atomization">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="Combustion">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="Heat and mass transfer">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shanmugadas K.P" target="Experimental methods for engineers">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shantanu Vijay Madge" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Shantanu Vijay Madge" target="Physical Metallurgy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shantanu Vijay Madge" target="Mechanical Metallurgy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shantanu Vijay Madge" target="Materials Processing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shantanu Vijay Madge" target="Wear and Surface Engineering (Tribology). Metal 3D Printing (Additive Manufacturing)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shantanu Vijay Madge" target="Cold Spray Deposition">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shantanu Vijay Madge" target="Rapid Solidification">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shantanu Vijay Madge" target="Amorphous Alloys">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shantanu Vijay Madge" target="High Entropy Alloys. Electron Microscopy (SEM/EBSD/TEM) and X-ray DIffraction of Materials.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shikha Baghel" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Shirsendu Ghosh" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Shirsendu Ghosh" target="Chemistry">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Shirsha Bose" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Shirsha Bose" target="Biomechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shirsha Bose" target="Biomaterials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shirsha Bose" target="Biomedical Device Development">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Shiva S" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Shivnath Mazumder" target="Chemistry">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sidharth Maheshwari" target="Inter Disciplinary Program">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sidharth Maheshwari" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sidharth Maheshwari" target="Teaching Interests Computer Architecture">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sidharth Maheshwari" target="Python">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sidharth Maheshwari" target="Embedded Systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sivakumar G" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Soumyadip Das" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Soumyadip Das" target="Research Area: Algebraic Geometry. Specifically: Covers of Curves">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Soumyadip Das" target="Ramification Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Soumyadip Das" target="Etale Fundamental Groups">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Soumyadip Das" target="Algebraic Stacks">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Soumyadip Das" target="Moduli Problems. Teaching Interests Algebra">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Soumyadip Das" target="Algebraic Geometry">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Soumyadip Das" target="Number Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Soumyadip Das" target="Topology.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sri Tapaswi Nori" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Srinivasan N" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Srinivasan N" target="Research Areas Rare-earth ceramics for functional applications">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Srinivasan N" target="Polymer derived ceramics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Srinivasan N" target="Material Characterization and Additive Manufacturing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Srishilan C" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Srishilan C" target="1. Metallurgical Thermodynamics 2. Metal Extraction 3. Iron and steel making 4. Transport Phenomena">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Subhas Samanta" target="Chemistry">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Subhas Samanta" target="Organometalic catalysis involving non-innocent ligands">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Subhas Samanta" target="Bio-inspired transition metal catalysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Subhas Samanta" target="Small molecule activation reaction">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Subhasis Bhattacharjee" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Electrical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Two-way relaying">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="RF energy harvesting networks">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Cognitive radio networks">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="image processing Teaching Interests: Digital communication">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Signal theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Estimation and Detection">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Wireless communication">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Information theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Digital design">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Control systems">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="Multimedia signal processing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sudhakar Modem" target="others.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sukanya Mondal" target="Humanities &amp; Social Sciences">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Suman Banerjee" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Suman Banerjee" target="Research Interests Social an Information Network Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Banerjee" target="Algorithmic Data Management">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Banerjee" target="Time Varying Graph Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Banerjee" target="Graph Theory and Parameterized Complexity. Teaching Interests Algorithms">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Banerjee" target="Graph Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Banerjee" target="Database">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Research Areas Microwave Based Meta Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Energy Storage Alloys">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Rapid Prototyping and Non Equilibrium Processing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Magnetic Shape Memory Smart Alloys">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="High Heat Flux Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Microstructure Modelling and Phase Transformation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Electron Microscopy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Microstructure Modeling">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Energy Materials. Teaching Interests Thermodynamics of Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Characterization Techniques">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Electronic Ceramics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Suman Sarkar" target="Advanced Alloys">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sumit Kumar Pandey" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sunil Kumar Kashyap" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Sunil Kumar Kashyap" target="Research Areas Structural Ceramics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sunil Kumar Kashyap" target="Powder Metallurgy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sunil Kumar Kashyap" target="High Temperature Properties">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sunil Kumar Kashyap" target="Materials Characterization Research Interests Ultra-High Temperature Ceramic (UHTC) Composites">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sunil Kumar Kashyap" target="Sintering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sunil Kumar Kashyap" target="Oxidation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sunil Kumar Kashyap" target="Gel-Casting">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Sunil Kumar Kashyap" target="Rheology Teaching Interests Powder Metallurgy Ceramic Engineering Characterization of Materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Supriyo Chakraborty" target="Materials Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Research Interests: Broad research interests: Ultrasonics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Structural health monitoring">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Computational Mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="and Micromechanics Interested in Applications including: Ultrasonic Nondestructive evaluation">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Subsurface imaging and characterization">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Numerical modeling of elastic wave propagation and scattering">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Homogenization of composite materials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Multiscale modeling Teaching Interests: Solid Mechanics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Steel Structures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Surendra Beniwal" target="Structural Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Tanmay Sarkar" target="Mathematics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Tanmay Sarkar" target="Research Area: Partial Differential Equations and Numerics. More precisely">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Tanmay Sarkar" target="I am interested in hyperbolic conservation laws and numerics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Tanmay Sarkar" target="nonlinear dispersive equations">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Tanmay Sarkar" target="degenerate convection-diffusion equations">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Tanmay Sarkar" target="discontinuous Galerkin method for evolution equations">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Tanmay Sarkar" target="Numerical Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Tanmay Sarkar" target="Real and Functional Analysis.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Uday Kiran Roopavath" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Uday Kiran Roopavath" target="Biomaterials science">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Uday Kiran Roopavath" target="Biodesign and biofabrication of artificial organs">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Uday Kiran Roopavath" target="and Regulatory for medical devices.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Uma Satya Ranjan" target="Inter Disciplinary Program">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Prof. Uma Satya Ranjan" target="Deep Learning">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Uma Satya Ranjan" target="Reinforcement Learning">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Prof. Uma Satya Ranjan" target="Biomedical Image Analysis">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ved Prakash Ranjan" target="Civil Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Ved Prakash Ranjan" target="Teaching">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Ved Prakash Ranjan" target="research and consultancy">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Venkata Sathish Akella" target="Physics">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Venkata Sathish Akella" target="Classical Physics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Venkata Sathish Akella" target="Statistical Physics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Venkata Sathish Akella" target="Quantum Physics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Venkata Sathish Akella" target="Electromagnetic Theory">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Venkata Sathish Akella" target="Computational Physics Interfacial Phenomena">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Venkata Sathish Akella" target="Active Matter (Experimental and Computational)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="Mechanical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="Research Interests: Conventional and non-conventional machining (Micro-EDM/ECM">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="LASER machining etc.)">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="Tribology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="machining of UHTCs">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="Biomaterials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="Nano technology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="super hydrophobic surfaces">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="large area micro/nano texturing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="Composites Teaching Interests: Manufacturing processes">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vijay Kumar Pal" target="recent fabrication Methods">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Bio-active nanomaterials">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Biosensors">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Nanopore technology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Nano-Theranostics">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Bioimaging probes">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Healthcare devices">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Nanomedicine">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Anticancer nanotechnology">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Antimicrobial Resistance and Gene Therapy. Courses: 1) UG Level: Biology for Engineers">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Bioanalytical Methods">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Nanobiotechnology.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Recombinant DNA Technology 2) PG Level: Biosensors">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Biomedical nanostructures">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinay Sharma" target="Biomaterials and Tissue Engineering.">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="Research Interests: Visual Quality Assessment">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="Perceptual Signal Modeling">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="Visual Perception">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="Video and Medical Processing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="Just Noticeable Difference">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="3D Reconstruction">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="Application of Machine/Deep Learning etc. Teaching Interests: Artificial Intelligence">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="Machine/Deep Learning">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vinit Jakhetiya" target="Digital Design">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Vivek B Raina" target="Bioscience and Bioengineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Yamuna Prasad" target="Computer Science &amp; Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Yamuna Prasad" target="Teaching Interests: Machine Learning">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Yamuna Prasad" target="Deep Learning">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Yamuna Prasad" target="Large Language Models">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Yamuna Prasad" target="and Soft Computing">
+  <data key="d13">researches</data>
+</edge>
+<edge source="Dr. Yogesh Madhukarrao Nimdeo" target="Chemical Engineering">
+  <data key="d13">belongs_to</data>
+</edge>
+<edge source="Dr. Yogesh Madhukarrao Nimdeo" target="optimization">
+  <data key="d13">researches</data>
+</edge>
+</graph></graphml>

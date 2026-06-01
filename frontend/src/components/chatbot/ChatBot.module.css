@@ -1,0 +1,122 @@
+/* ═══════════════════════════════════════════════════════
+   ChatBot — Floating Action Button & Window Container
+   ═══════════════════════════════════════════════════════ */
+
+/* Floating Action Button */
+.fab {
+  position: fixed;
+  bottom: 28px; right: 28px;
+  width: 62px; height: 62px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #003366 0%, #0a5ab5 100%);
+  border: none;
+  color: white;
+  cursor: pointer;
+  box-shadow:
+    0 4px 24px rgba(0,51,102,0.45),
+    0 0 0 0 rgba(197,151,42,0.4);
+  display: flex; align-items: center; justify-content: center;
+  z-index: 9999;
+  transition: all 0.3s cubic-bezier(0.34,1.56,0.64,1);
+  animation: fabPulse 3s ease-in-out infinite;
+}
+.fab:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 32px rgba(0,51,102,0.6), 0 0 0 6px rgba(10,90,181,0.15);
+  animation: none;
+}
+.fabOpen {
+  background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%);
+  animation: none;
+  transform: rotate(90deg);
+  box-shadow: 0 4px 20px rgba(220,38,38,0.4);
+}
+.fabOpen:hover { transform: rotate(90deg) scale(1.1); }
+
+@keyframes fabPulse {
+  0%, 100% { box-shadow: 0 4px 24px rgba(0,51,102,0.45), 0 0 0 0 rgba(10,90,181,0.3); }
+  50% { box-shadow: 0 4px 24px rgba(0,51,102,0.45), 0 0 0 10px rgba(10,90,181,0); }
+}
+
+.badge {
+  position: absolute; top: -4px; right: -4px;
+  background: linear-gradient(135deg, #C5972A, #e0b84a);
+  color: white;
+  font-family: var(--font-heading);
+  font-size: 10px; font-weight: 700;
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  border: 2px solid white;
+  animation: badgePop 0.3s ease;
+}
+
+@keyframes badgePop {
+  from { transform: scale(0); }
+  to { transform: scale(1); }
+}
+
+/* Tooltip */
+.tooltip {
+  position: fixed;
+  bottom: 98px; right: 28px;
+  background: white;
+  color: var(--iitj-navy);
+  font-family: var(--font-heading);
+  font-size: 12.5px;
+  font-weight: 600;
+  padding: 8px 14px;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  z-index: 9998;
+  animation: tooltipIn 0.4s ease 2s both;
+  pointer-events: none;
+  white-space: nowrap;
+}
+.tooltip::after {
+  content: '';
+  position: absolute;
+  bottom: -6px; right: 24px;
+  width: 12px; height: 12px;
+  background: white;
+  transform: rotate(45deg);
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.06);
+}
+
+@keyframes tooltipIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Window wrapper */
+.windowWrap {
+  position: fixed;
+  bottom: 100px; right: 28px;
+  width: 420px;
+  z-index: 9998;
+  pointer-events: none;
+}
+.windowOpen {
+  pointer-events: auto;
+  animation: windowSlideUp 0.35s cubic-bezier(0.34,1.56,0.64,1);
+}
+.windowClosed {
+  opacity: 0;
+  transform: translateY(20px) scale(0.95);
+  pointer-events: none;
+}
+
+@keyframes windowSlideUp {
+  from { opacity: 0; transform: translateY(40px) scale(0.92); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .windowWrap {
+    bottom: 0; right: 0; left: 0; width: 100%;
+    border-radius: 0;
+  }
+  .fab { bottom: 16px; right: 16px; width: 56px; height: 56px; }
+  .tooltip { display: none; }
+}

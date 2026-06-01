@@ -1,0 +1,41 @@
+{
+  "btech_placements": {
+    "2024-25": [
+      { "branch": "Computer Science Engineering", "placed_pct": "89.47", "avg": "22.32", "max": "50", "min": "7" },
+      { "branch": "Electrical Engineering", "placed_pct": "88.24", "avg": "12.94", "max": "22", "min": "5.5" },
+      { "branch": "Mechanical Engineering", "placed_pct": "84.85", "avg": "12.44", "max": "30.78", "min": "6" },
+      { "branch": "Chemical Engineering", "placed_pct": "100.00", "avg": "9.30", "max": "21", "min": "6" },
+      { "branch": "Civil Engineering", "placed_pct": "82.14", "avg": "10.57", "max": "53", "min": "6" },
+      { "branch": "Materials Engineering", "placed_pct": "73.08", "avg": "10.02", "max": "22", "min": "5.5" }
+    ],
+    "2023-24": [
+      { "branch": "Computer Science Engineering", "placed_pct": "100.00", "avg": "20.26", "max": "52", "min": "9" },
+      { "branch": "Electrical Engineering", "placed_pct": "54.84", "avg": "13.81", "max": "41.5", "min": "5" },
+      { "branch": "Mechanical Engineering", "placed_pct": "86.67", "avg": "14.21", "max": "44", "min": "5" },
+      { "branch": "Chemical Engineering", "placed_pct": "70.83", "avg": "12.51", "max": "34", "min": "5" },
+      { "branch": "Civil Engineering", "placed_pct": "71.43", "avg": "12.48", "max": "41.5", "min": "6" },
+      { "branch": "Materials Engineering", "placed_pct": "75.00", "avg": "8.44", "max": "15", "min": "5" }
+    ]
+  },
+  "mtech_placements": {
+    "2024-25": [
+      { "branch": "Computer Science and Engineering", "placed_pct": "100.00", "avg": "16.99", "max": "48", "min": "8" },
+      { "branch": "Computer Technology", "placed_pct": "100.00", "avg": "21.94", "max": "30.68", "min": "6" },
+      { "branch": "Communications and Signal Processing", "placed_pct": "100.00", "avg": "17.96", "max": "36", "min": "7" },
+      { "branch": "VLSI", "placed_pct": "93.75", "avg": "24.26", "max": "40", "min": "8" },
+      { "branch": "Thermal and Energy Systems Engineering", "placed_pct": "100.00", "avg": "8.19", "max": "12", "min": "5" },
+      { "branch": "Sustainable Energy", "placed_pct": "100.00", "avg": "6.42", "max": "7", "min": "5.5" },
+      { "branch": "Tunnel Engineering", "placed_pct": "66.67", "avg": "6.87", "max": "7", "min": "6.8" },
+      { "branch": "Structural Engineering", "placed_pct": "85.71", "avg": "6.11", "max": "6.8", "min": "5" }
+    ],
+    "2023-24": [
+      { "branch": "Data Science", "placed_pct": "100.00", "avg": "20.42", "max": "26.1", "min": "9" },
+      { "branch": "Information Security", "placed_pct": "80.00", "avg": "19.63", "max": "26.1", "min": "11" },
+      { "branch": "Computer Technology", "placed_pct": "100.00", "avg": "16.67", "max": "19", "min": "12" },
+      { "branch": "Communications and Signal Processing", "placed_pct": "50.00", "avg": "21.67", "max": "35", "min": "12" },
+      { "branch": "VLSI", "placed_pct": "66.67", "avg": "30.11", "max": "48", "min": "9.5" },
+      { "branch": "Thermal and Energy Systems Engineering", "placed_pct": "90.00", "avg": "11.39", "max": "41.5", "min": "5" },
+      { "branch": "Tunnel Engineering", "placed_pct": "90.91", "avg": "6.65", "max": "9", "min": "5" }
+    ]
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "building": "11AC Academic Block/pushkar",
+  "floor_mapping": [
+    {
+      "level": "L1",
+      "room_range": "11AC1001 - 11AC1026"
+    },
+    {
+      "level": "L2",
+      "room_range": "11AC2001 - 11AC2046"
+    },
+    {
+      "level": "L3",
+      "room_range": "11AC3001 - 11AC3056"
+    },
+    {
+      "level": "L4",
+      "room_range": "11AC4001 - 11AC4042"
+    },
+    {
+      "level": "L5",
+      "room_range": "11AC5001 - 11AC5072"
+    },
+    {
+      "level": "L6",
+      "room_range": "11AC6001 - 11AC6032"
+    },
+    {
+      "level": "L7",
+      "room_range": "11AC7001 - 11AC7032"
+    }
+  ],
+  "ground_level": {
+    "left_side_rooms": "11ACG001 - 11ACG007",
+    "right_side_rooms": "11ACG008 - 11ACG014"
+  },
+  "faculty_rooms": [
+    {
+      "faculty_name": "Badri Narayan Subudhi",
+      "department": "Electrical Engineering",
+      "room_number": "11AC7021"
+    },
+    {
+      "faculty_name": "Karan Nathwani",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5040"
+    },
+    {
+      "faculty_name": "Kankat Ghosh",
+      "department": "Electrical Engineering",
+      "room_number": "11AC3034"
+    },
+    {
+      "faculty_name": "Kushmanda Saurav",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5009"
+    },
+    {
+      "faculty_name": "Ajay Singh",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5044"
+    },
+    {
+      "faculty_name": "Alok Kumar Saxena",
+      "department": "Electrical Engineering",
+      "room_number": "11AC6023"
+    },
+    {
+      "faculty_name": "Ambika Prasad Shah",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5011"
+    },
+    {
+      "faculty_name": "Ankit Dubey",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5005"
+    },
+    {
+      "faculty_name": "Ankur Bansal",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5010"
+    },
+    {
+      "faculty_name": "Anup Shukla",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5041"
+    },
+    {
+      "faculty_name": "Archana Rajput",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5072"
+    },
+    {
+      "faculty_name": "Arun Kumar Verma",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5032"
+    },
+    {
+      "faculty_name": "Chandan Yadav",
+      "department": "Electrical Engineering",
+      "room_number": "11AC3021"
+    },
+    {
+      "faculty_name": "Divyesh Varade",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5039"
+    },
+    {
+      "faculty_name": "Nalin Kumar Sharma",
+      "department": "Electrical Engineering",
+      "room_number": "11AC7023"
+    },
+    {
+      "faculty_name": "Padmini Singh",
+      "department": "Electrical Engineering",
+      "room_number": "11AC7020"
+    },
+    {
+      "faculty_name": "Rohit Buddhiram Chaurasiya",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5028"
+    },
+    {
+      "faculty_name": "Satyadev Ahlawat",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5043"
+    },
+    {
+      "faculty_name": "Sudhakar Modem",
+      "department": "Electrical Engineering",
+      "room_number": "11AC5042"
+    },
+    {
+      "faculty_name": "Gaurav Varshney",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC6012"
+    },
+    {
+      "faculty_name": "Harkeerat Kaur",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC7010"
+    },
+    {
+      "faculty_name": "Mrinmoy Bhattacharjee",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC6005"
+    },
+    {
+      "faculty_name": "Samaresh Bera",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC6020"
+    },
+    {
+      "faculty_name": "Sarada Prasad Gochhayat",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC7016"
+    },
+    {
+      "faculty_name": "Sayantan Mukherjee",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC6017"
+    },
+    {
+      "faculty_name": "Shaifu Gupta",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC7018"
+    },
+    {
+      "faculty_name": "Sidharth Maheshwari",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC5002"
+    },
+    {
+      "faculty_name": "Subhasis Bhattacharjee",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC7019"
+    },
+    {
+      "faculty_name": "Suman Banerjee",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC5064"
+    },
+    {
+      "faculty_name": "Sumit Kumar Pandey",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC5035"
+    },
+    {
+      "faculty_name": "Yamuna Prasad",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC5008"
+    },
+    {
+      "faculty_name": "Aroof Aimen",
+      "department": "Computer Science and Engineering",
+      "room_number": "11AC6013"
+    },
+    {
+      "faculty_name": "Ashutosh Yadav",
+      "department": "Chemical Engineering",
+      "room_number": "11AC5062"
+    },
+    {
+      "faculty_name": "Aditya Shankar Sandupatla",
+      "department": "Chemical Engineering",
+      "room_number": "11AC5036"
+    },
+    {
+      "faculty_name": "Ankit Tyagi",
+      "department": "Chemical Engineering",
+      "room_number": "11AC6016"
+    },
+    {
+      "faculty_name": "Dharitri Rath",
+      "department": "Chemical Engineering",
+      "room_number": "11AC7009"
+    },
+    {
+      "faculty_name": "Dnyaneshwar Bhawangirkar",
+      "department": "Chemical Engineering",
+      "room_number": "11AC5038"
+    },
+    {
+      "faculty_name": "Gaurav Ashok Bhaduri",
+      "department": "Chemical Engineering",
+      "room_number": "11AC5003"
+    },
+    {
+      "faculty_name": "Krishna Mohan Gupta",
+      "department": "Chemical Engineering",
+      "room_number": "11AC6015"
+    },
+    {
+      "faculty_name": "Ravi Kumar Arun",
+      "department": "Chemical Engineering",
+      "room_number": "11AC7013"
+    },
+    {
+      "faculty_name": "Ashutosh Bijalwan",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC5034"
+    },
+    {
+      "faculty_name": "Akash Subhash Awale",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC6010"
+    },
+    {
+      "faculty_name": "Angshuman Kapil",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC6014"
+    },
+    {
+      "faculty_name": "Arvind Kumar Rajput",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC5065"
+    },
+    {
+      "faculty_name": "Durai Prabhakaran R T",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC7022"
+    },
+    {
+      "faculty_name": "Navneet Kumar",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC6019"
+    },
+    {
+      "faculty_name": "Pothukuchi Harish",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC7024"
+    },
+    {
+      "faculty_name": "Roshan Udaram Patil",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC7008"
+    },
+    {
+      "faculty_name": "Sampat Rao",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC7025"
+    },
+    {
+      "faculty_name": "Satya Sekhar Bhogilla",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC6006"
+    },
+    {
+      "faculty_name": "Saurabh Biswas",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC5067"
+    },
+    {
+      "faculty_name": "Shanmugadas K P",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC7014"
+    },
+    {
+      "faculty_name": "Shiva S",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC6009"
+    },
+    {
+      "faculty_name": "Vijay Kumar Pal",
+      "department": "Mechanical Engineering",
+      "room_number": "11AC5068"
+    },
+    {
+      "faculty_name": "Ankit Kathuria",
+      "department": "Civil Engineering",
+      "room_number": "11AC3036"
+    },
+    {
+      "faculty_name": "Chembolu Vinay",
+      "department": "Civil Engineering",
+      "room_number": "11AC5066"
+    },
+    {
+      "faculty_name": "Deepak Yadav",
+      "department": "Civil Engineering",
+      "room_number": "11AC5063"
+    },
+    {
+      "faculty_name": "Dhanendra Kumar",
+      "department": "Civil Engineering",
+      "room_number": "11AC7005"
+    },
+    {
+      "faculty_name": "Mir Faizan Ul Haq",
+      "department": "Civil Engineering",
+      "room_number": "11AC7007"
+    },
+    {
+      "faculty_name": "Nitin Joshi",
+      "department": "Civil Engineering",
+      "room_number": "11AC6007"
+    },
+    {
+      "faculty_name": "Pervaiz Fathima Khatoon M",
+      "department": "Civil Engineering",
+      "room_number": "11AC6025"
+    },
+    {
+      "faculty_name": "Rajendra Kumar Varma",
+      "department": "Civil Engineering",
+      "room_number": "11AC6022"
+    },
+    {
+      "faculty_name": "Rimen Jamatia",
+      "department": "Civil Engineering",
+      "room_number": "11AC3038"
+    },
+    {
+      "faculty_name": "Sameer Kumar Sarma Pachalla",
+      "department": "Civil Engineering",
+      "room_number": "11AC5026"
+    },
+    {
+      "faculty_name": "Sarah Mariam Abraham",
+      "department": "Civil Engineering",
+      "room_number": "11AC5031"
+    },
+    {
+      "faculty_name": "Sivakumar G",
+      "department": "Civil Engineering",
+      "room_number": "11AC3037"
+    },
+    {
+      "faculty_name": "Surendra Beniwal",
+      "department": "Civil Engineering",
+      "room_number": "11AC5001"
+    },
+    {
+      "faculty_name": "Ved Prakash Ranjan",
+      "department": "Civil Engineering",
+      "room_number": "11AC7012"
+    },
+    {
+      "faculty_name": "Ajay Gautam",
+      "department": "Materials Engineering",
+      "room_number": "11AC5033"
+    },
+    {
+      "faculty_name": "Avinash Raulo",
+      "department": "Materials Engineering",
+      "room_number": "11AC3020"
+    },
+    {
+      "faculty_name": "Devi Lal",
+      "department": "Materials Engineering",
+      "room_number": "11AC7006"
+    },
+    {
+      "faculty_name": "Kancharla Hari Krishna",
+      "department": "Materials Engineering",
+      "room_number": "11AC5027"
+    },
+    {
+      "faculty_name": "Nitesh Kumar",
+      "department": "Materials Engineering",
+      "room_number": "11AC6024"
+    },
+    {
+      "faculty_name": "Rani Rohini",
+      "department": "Materials Engineering",
+      "room_number": "11AC5037"
+    },
+    {
+      "faculty_name": "Srinivasan N",
+      "department": "Materials Engineering",
+      "room_number": "11AC5025"
+    },
+    {
+      "faculty_name": "Srishilan C",
+      "department": "Materials Engineering",
+      "room_number": "11AC7011"
+    },
+    {
+      "faculty_name": "Sujaya Chakraborty",
+      "department": "Materials Engineering",
+      "room_number": "11AC7015"
+    },
+    {
+      "faculty_name": "Suman Sarkar",
+      "department": "Materials Engineering",
+      "room_number": "11AC3025"
+    },
+    {
+      "faculty_name": "Sunil Kumar Kashyap",
+      "department": "Materials Engineering",
+      "room_number": "11AC5071"
+    },
+    {
+      "faculty_name": "Shantanu Vijay Madge",
+      "department": "Materials Engineering",
+      "room_number": "11AC5030"
+    },
+    {
+      "faculty_name": "Uma Satya Ranjan",
+      "department": "Interdisciplinary Program",
+      "room_number": "11AC3033"
+    }
+  ]
+}

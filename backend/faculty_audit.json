@@ -1,0 +1,682 @@
+{
+  "good": [
+    [
+      "Prof. Abhay Sharma",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Abhishek Kumar",
+      "Physics"
+    ],
+    [
+      "Dr. Aditya Shankar Sandupatla",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Ajay Kumar",
+      "Mathematics"
+    ],
+    [
+      "Dr. Ajeet Kumar Sharma",
+      "Bioscience and Bioengineering"
+    ],
+    [
+      "Dr. Akash Subhash Awale",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Alok Kumar Saxena",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Amitash Ojha",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Amlan Kumar Pal",
+      "Chemistry"
+    ],
+    [
+      "Dr. Angshuman Kapil",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Ankit Kathuria",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Ankit Tyagi",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Ankur Bansal",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Anurag Misra",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Archana Rajput",
+      "Physics"
+    ],
+    [
+      "Dr. Arpita Paul",
+      "Physics"
+    ],
+    [
+      "Dr. Arun Kumar Verma",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Arvind Kumar",
+      "Mathematics"
+    ],
+    [
+      "Dr. Arvind Kumar Rajput",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Ashutosh Bijalwan",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Ashutosh Yadav",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Avinash Raulo",
+      "Inter Disciplinary Program"
+    ],
+    [
+      "Prof. Bacham Eswar Reddy",
+      "Physics"
+    ],
+    [
+      "Dr. Biswanath Chakraborty",
+      "Physics"
+    ],
+    [
+      "Dr. Chembolu Vinay",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Deepak Yadav",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Devi Lal",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Dhanendra Kumar",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Dharitri Rath",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Divyesh Varade",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Dnyaneshwar Ramloo Bhawangirkar",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Durai Prabhakaran R T",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Garima Singh",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Gaurav Ashok Bhaduri",
+      "Bioscience and Bioengineering"
+    ],
+    [
+      "Dr. Goutam Dutta",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Guru Brahamam Ramani",
+      "Chemistry"
+    ],
+    [
+      "Dr. Hardeep Singh",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Harkeerat Kaur",
+      "Computer Science & Engineering"
+    ],
+    [
+      "Dr. Ibhanchand Rath",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Jayaramulu Kolleboyina",
+      "Chemistry"
+    ],
+    [
+      "Dr. Jigmi Basumatary",
+      "Bioscience and Bioengineering"
+    ],
+    [
+      "Dr. Joby Varghese",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Kancharla Hari Krishna",
+      "Materials Engineering"
+    ],
+    [
+      "Ms. Malvika Sharma",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Meenakshi Rajeev",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Mir Faizan Ul Haq",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Mithu Baidya",
+      "Bioscience and Bioengineering"
+    ],
+    [
+      "Dr. Mrinmoy Bhattacharjee",
+      "Computer Science & Engineering"
+    ],
+    [
+      "Dr. Muhammed Haneefa A.P.",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Nalin Kumar Sharma",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Navneet Kumar",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Nitesh Kumar",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Nitesh Singh Malan",
+      "Bioscience and Bioengineering"
+    ],
+    [
+      "Dr. Nitin Joshi",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Nitin Kumar",
+      "Mathematics"
+    ],
+    [
+      "Dr. Nityananda Sahu",
+      "Chemistry"
+    ],
+    [
+      "Dr. Padmini Singh",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Pankaj Chauhan",
+      "Chemistry"
+    ],
+    [
+      "Dr. Parveen Kumar",
+      "Physics"
+    ],
+    [
+      "Dr. Pervaiz Fathima Khatoon M",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Pothukuchi Harish",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Prasant Singh",
+      "Mathematics"
+    ],
+    [
+      "Dr. Prasun Halder",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Pratik Kumar",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Priyanka Mishra",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Priyatosh Jena",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Quleen Kaur Bijral",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Rahul R Salunkhe",
+      "Inter Disciplinary Program"
+    ],
+    [
+      "Dr. Rajendra Kumar Varma",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Rajiv Kumar",
+      "Mathematics"
+    ],
+    [
+      "Dr. Rajkumar V",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Rani Rohini",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Ravi Kumar Arun",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Ravikant Saini",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Rimen Jamatia",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Riya Bhowmik",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Rohit Buddhiram Chaurasiya",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Roshan Udaram Patil",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. S. R. K. Chaitanya Indukuri",
+      "Physics"
+    ],
+    [
+      "Dr. Sahil Kalra",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Samaresh Bera",
+      "Computer Science & Engineering"
+    ],
+    [
+      "Dr. Sameer Kumar Sarma Pachalla",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Samrat Rao",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Sanat Kumar Tiwari",
+      "Physics"
+    ],
+    [
+      "Dr. Santhilal Subhash",
+      "Inter Disciplinary Program"
+    ],
+    [
+      "Dr. Sarada Prasad Gochhayat",
+      "Computer Science & Engineering"
+    ],
+    [
+      "Dr. Sarah Mariam Abraham",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Satya Sekhar Bhogilla",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Sayantan Mukherjee",
+      "Computer Science & Engineering"
+    ],
+    [
+      "Dr. Shafkat Shafi Dar",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Shanmugadas K.P",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Shantanu Vijay Madge",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Shirsendu Ghosh",
+      "Bioscience and Bioengineering"
+    ],
+    [
+      "Dr. Shirsha Bose",
+      "Bioscience and Bioengineering"
+    ],
+    [
+      "Dr. Shiva S",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Shivnath Mazumder",
+      "Chemistry"
+    ],
+    [
+      "Dr. Sidharth Maheshwari",
+      "Inter Disciplinary Program"
+    ],
+    [
+      "Dr. Sivakumar G",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Soumyadip Das",
+      "Mathematics"
+    ],
+    [
+      "Dr. Srinivasan N",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Srishilan C",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Subhas Samanta",
+      "Chemistry"
+    ],
+    [
+      "Dr. Subhasis Bhattacharjee",
+      "Computer Science & Engineering"
+    ],
+    [
+      "Dr. Sudhakar Modem",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Suman Banerjee",
+      "Computer Science & Engineering"
+    ],
+    [
+      "Dr. Suman Sarkar",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Sunil Kumar Kashyap",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Surendra Beniwal",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Tanmay Sarkar",
+      "Mathematics"
+    ],
+    [
+      "Dr. Uday Kiran Roopavath",
+      "Bioscience and Bioengineering"
+    ],
+    [
+      "Prof. Uma Satya Ranjan",
+      "Inter Disciplinary Program"
+    ],
+    [
+      "Dr. Ved Prakash Ranjan",
+      "Civil Engineering"
+    ],
+    [
+      "Dr. Venkata Sathish Akella",
+      "Physics"
+    ],
+    [
+      "Dr. Vijay Kumar Pal",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Vinay Sharma",
+      "Bioscience and Bioengineering"
+    ],
+    [
+      "Dr. Yogesh Madhukarrao Nimdeo",
+      "Chemical Engineering"
+    ],
+    [
+      "Badri Narayan Subudhi \u2014 Electrical Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Karan Nathwani \u2014 Computer Science and Engineering",
+      "Computer Science and Engineering"
+    ],
+    [
+      "Vinit Jakhetiya \u2014 Computer Science and Engineering",
+      "Computer Science and Engineering"
+    ],
+    [
+      "Gaurav Varshney \u2014 Computer Science and Engineering",
+      "Computer Science and Engineering"
+    ],
+    [
+      "Manoj Singh Gaur \u2014 Computer Science and Engineering",
+      "Computer Science and Engineering"
+    ],
+    [
+      "Shikha Baghel \u2014 Electrical Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Anup Shukla \u2014 Electrical Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Kushmanda Saurav \u2014 Electrical Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Vinod Kushvaha \u2014 Mechanical Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Ankit Dubey \u2014 Computer Science and Engineering",
+      "Computer Science and Engineering"
+    ],
+    [
+      "Yamuna Prasad \u2014 Computer Science and Engineering",
+      "Computer Science and Engineering"
+    ],
+    [
+      "Ambika Prasad Shah \u2014 Physics",
+      "Physics"
+    ],
+    [
+      "Ajay Singh \u2014 Electrical Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Shaifu Gupta \u2014 Computer Science and Engineering",
+      "Computer Science and Engineering"
+    ]
+  ],
+  "needs_fix": [
+    [
+      "Dr. Sartaj Ul Hasan",
+      "Mathematics"
+    ],
+    [
+      "Mr. Abhishek Sharmata",
+      "Media Cell"
+    ],
+    [
+      "Dr. Ajay Gautam",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Amrita Chatterjee",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Anil Kumar Paidi",
+      "Inter Disciplinary Program"
+    ],
+    [
+      "Dr. Ashok Bera",
+      "Physics"
+    ],
+    [
+      "Dr. Chandan Yadav",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Hiranya Kishore Dey",
+      "Mathematics"
+    ],
+    [
+      "Dr. Kankat Ghosh",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Krishna Mohan Gupta",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Moni Kumari",
+      "Mathematics"
+    ],
+    [
+      "Dr. Rahul Dattatraya Kitture",
+      "Mathematics"
+    ],
+    [
+      "Dr. Sanchita Srivastava",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Saurabh Biswas",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Sri Tapaswi Nori",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Sukanya Mondal",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Sumit Kumar Pandey",
+      "Computer Science & Engineering"
+    ],
+    [
+      "Dr. Supriyo Chakraborty",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Vivek B Raina",
+      "Bioscience and Bioengineering"
+    ]
+  ],
+  "url_only": [
+    [
+      "Dr. Sartaj Ul Hasan",
+      "Mathematics"
+    ]
+  ],
+  "empty": [
+    [
+      "Mr. Abhishek Sharmata",
+      "Media Cell"
+    ],
+    [
+      "Dr. Ajay Gautam",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Amrita Chatterjee",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Anil Kumar Paidi",
+      "Inter Disciplinary Program"
+    ],
+    [
+      "Dr. Ashok Bera",
+      "Physics"
+    ],
+    [
+      "Dr. Chandan Yadav",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Hiranya Kishore Dey",
+      "Mathematics"
+    ],
+    [
+      "Dr. Kankat Ghosh",
+      "Electrical Engineering"
+    ],
+    [
+      "Dr. Krishna Mohan Gupta",
+      "Chemical Engineering"
+    ],
+    [
+      "Dr. Moni Kumari",
+      "Mathematics"
+    ],
+    [
+      "Dr. Rahul Dattatraya Kitture",
+      "Mathematics"
+    ],
+    [
+      "Dr. Sanchita Srivastava",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Saurabh Biswas",
+      "Mechanical Engineering"
+    ],
+    [
+      "Dr. Sri Tapaswi Nori",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Sukanya Mondal",
+      "Humanities & Social Sciences"
+    ],
+    [
+      "Dr. Sumit Kumar Pandey",
+      "Computer Science & Engineering"
+    ],
+    [
+      "Dr. Supriyo Chakraborty",
+      "Materials Engineering"
+    ],
+    [
+      "Dr. Vivek B Raina",
+      "Bioscience and Bioengineering"
+    ]
+  ]
+}

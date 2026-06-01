@@ -1,0 +1,358 @@
+{
+  "btech_jee_advanced": {
+    "cse": {
+      "closing_rank_estimate": "Top 4000-5000",
+      "category": "General",
+      "notes": "Computer Science and Engineering is the most competitive specialization."
+    },
+    "other_branches": {
+      "closing_rank_estimate": "Around 10000 to 15000+",
+      "category": "General",
+      "notes": "Includes Civil Engineering, Chemical Engineering, and Materials Engineering."
+    },
+    "previous_years": {
+      "2025": [
+        {
+          "branch": "Computer Science and Engineering",
+          "closing_rank": 6651
+        },
+        {
+          "branch": "Mathematics and Computing",
+          "closing_rank": 8559
+        },
+        {
+          "branch": "Electrical Engineering",
+          "closing_rank": 11399
+        },
+        {
+          "branch": "Mechanical Engineering",
+          "closing_rank": 14453
+        },
+        {
+          "branch": "Engineering Physics",
+          "closing_rank": 15917
+        },
+        {
+          "branch": "Chemical Engineering",
+          "closing_rank": 16284
+        },
+        {
+          "branch": "Civil Engineering",
+          "closing_rank": 17263
+        },
+        {
+          "branch": "Materials Engineering",
+          "closing_rank": 18156
+        }
+      ],
+      "2024": [
+        {
+          "branch": "Computer Science and Engineering",
+          "closing_rank": 6310
+        },
+        {
+          "branch": "Mathematics and Computing",
+          "closing_rank": 7956
+        },
+        {
+          "branch": "Electrical Engineering",
+          "closing_rank": 10005
+        },
+        {
+          "branch": "Mechanical Engineering",
+          "closing_rank": 12483
+        },
+        {
+          "branch": "Chemical Engineering",
+          "closing_rank": 15048
+        },
+        {
+          "branch": "Civil Engineering",
+          "closing_rank": 15583
+        },
+        {
+          "branch": "Materials Engineering",
+          "closing_rank": 16439
+        }
+      ],
+      "2023": [
+        {
+          "branch": "Computer Science and Engineering",
+          "closing_rank": 4856
+        },
+        {
+          "branch": "Mathematics and Computing",
+          "closing_rank": 7855
+        },
+        {
+          "branch": "Electrical Engineering",
+          "closing_rank": 9821
+        },
+        {
+          "branch": "Mechanical Engineering",
+          "closing_rank": 14589
+        },
+        {
+          "branch": "Chemical Engineering",
+          "closing_rank": 16433
+        },
+        {
+          "branch": "Civil Engineering",
+          "closing_rank": 16786
+        },
+        {
+          "branch": "Materials Engineering",
+          "closing_rank": 17296
+        }
+      ],
+      "2022": [
+        {
+          "branch": "Computer Science and Engineering",
+          "closing_rank": 4856
+        },
+        {
+          "branch": "Electrical Engineering",
+          "closing_rank": 9858
+        },
+        {
+          "branch": "Mechanical Engineering",
+          "closing_rank": 13048
+        },
+        {
+          "branch": "Chemical Engineering",
+          "closing_rank": 15208
+        },
+        {
+          "branch": "Civil Engineering",
+          "closing_rank": 15805
+        },
+        {
+          "branch": "Materials Engineering",
+          "closing_rank": 16258
+        }
+      ]
+    }
+  },
+  "mtech_gate": {
+    "general_rules": {
+      "selection_criteria": "Valid GATE score + department shortlisting criteria (which may include written tests and/or interviews).",
+      "numerical_cutoffs": "Numerical cutoffs are not fixed and vary depending on applicant pool size, vacancies, and department.",
+      "clarification": "JEE Advanced ranks (e.g. top 4000-5000) are only for undergraduate B.Tech admissions and do not apply to M.Tech admissions or GATE cutoffs."
+    },
+    "previous_years": {
+      "2025": [
+        {
+          "specialization": "Computer Science & Engineering",
+          "GEN": 643,
+          "OBC_NCL": 589,
+          "EWS": 639,
+          "SC": 443,
+          "ST": 397,
+          "PwD": 476
+        },
+        {
+          "specialization": "Structural Engineering",
+          "GEN": 430,
+          "OBC_NCL": 355,
+          "EWS": 366,
+          "SC": 283,
+          "ST": 325,
+          "PwD": 291
+        },
+        {
+          "specialization": "VLSI Design",
+          "GEN": 487,
+          "OBC_NCL": 436,
+          "EWS": 467,
+          "SC": 358,
+          "ST": 276,
+          "PwD": 307
+        },
+        {
+          "specialization": "Communication & Signal Processing",
+          "GEN": 459,
+          "OBC_NCL": 409,
+          "EWS": 409,
+          "SC": 327,
+          "ST": 280,
+          "PwD": 272
+        },
+        {
+          "specialization": "Thermal & Energy Systems Engg.",
+          "GEN": 352,
+          "OBC_NCL": 318,
+          "EWS": 369,
+          "SC": 279,
+          "ST": 248,
+          "PwD": 257
+        },
+        {
+          "specialization": "Mechanical System Design",
+          "GEN": 352,
+          "OBC_NCL": 332,
+          "EWS": 369,
+          "SC": 235,
+          "ST": 248,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Tunnel Engineering",
+          "GEN": 322,
+          "OBC_NCL": 325,
+          "EWS": 370,
+          "SC": 287,
+          "ST": 258,
+          "PwD": 291
+        },
+        {
+          "specialization": "Medical Devices",
+          "GEN": 422,
+          "OBC_NCL": 318,
+          "EWS": 372,
+          "SC": 214,
+          "ST": 272,
+          "PwD": 237
+        }
+      ],
+      "2024": [
+        {
+          "specialization": "Computer Science & Engineering (2 Yr)",
+          "GEN": 617,
+          "OBC_NCL": 580,
+          "EWS": 566,
+          "SC": 403,
+          "ST": 378,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Computer Science & Engineering (3 Yr)",
+          "GEN": 602,
+          "OBC_NCL": 514,
+          "EWS": 562,
+          "SC": 407,
+          "ST": 378,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Structural Engineering",
+          "GEN": 418,
+          "OBC_NCL": 393,
+          "EWS": 320,
+          "SC": 304,
+          "ST": 253,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Tunnel Engineering",
+          "GEN": 370,
+          "OBC_NCL": 374,
+          "EWS": 352,
+          "SC": 300,
+          "ST": 301,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Sustainable Energy",
+          "GEN": 389,
+          "OBC_NCL": "Nil",
+          "EWS": 314,
+          "SC": 150,
+          "ST": "Nil",
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Thermal & Energy System",
+          "GEN": 379,
+          "OBC_NCL": 367,
+          "EWS": 326,
+          "SC": 232,
+          "ST": 236,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "VLSI Design",
+          "GEN": 360,
+          "OBC_NCL": 320,
+          "EWS": 364,
+          "SC": 279,
+          "ST": 231,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Communication & Signal Processing",
+          "GEN": 370,
+          "OBC_NCL": 340,
+          "EWS": 364,
+          "SC": 290,
+          "ST": 241,
+          "PwD": "Nil"
+        }
+      ],
+      "2023": [
+        {
+          "specialization": "Computer Science & Engineering (2 Yr)",
+          "GEN": 600,
+          "OBC_NCL": 517,
+          "EWS": "Nil",
+          "SC": 423,
+          "ST": 413,
+          "PwD": 438
+        },
+        {
+          "specialization": "Computer Science & Engineering (3 Yr)",
+          "GEN": 561,
+          "OBC_NCL": 510,
+          "EWS": "Nil",
+          "SC": 397,
+          "ST": 386,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Structural Engineering",
+          "GEN": 403,
+          "OBC_NCL": 402,
+          "EWS": "Nil",
+          "SC": 337,
+          "ST": 252,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Tunnel Engineering",
+          "GEN": 402,
+          "OBC_NCL": 351,
+          "EWS": "Nil",
+          "SC": 255,
+          "ST": 375,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "Thermal & Energy Systems",
+          "GEN": 443,
+          "OBC_NCL": 373,
+          "EWS": "Nil",
+          "SC": 251,
+          "ST": 254,
+          "PwD": "Nil"
+        },
+        {
+          "specialization": "VLSI Design",
+          "GEN": 376,
+          "OBC_NCL": 418,
+          "EWS": "Nil",
+          "SC": 293,
+          "ST": 239,
+          "PwD": 260
+        },
+        {
+          "specialization": "Communication & Signal Processing",
+          "GEN": 431,
+          "OBC_NCL": 355,
+          "EWS": "Nil",
+          "SC": 264,
+          "ST": "Nil",
+          "PwD": 260
+        }
+      ]
+    }
+  }
+}

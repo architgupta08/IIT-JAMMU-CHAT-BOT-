@@ -1,0 +1,30 @@
+{
+  "btech_2025_26": {
+    "tuition_fee_per_semester": {
+      "General_OBC_EWS_income_above_5L": {
+        "amount_rs": 100000,
+        "notes": "Full tuition fee is applicable."
+      },
+      "General_OBC_EWS_income_1L_to_5L": {
+        "amount_rs": 33333,
+        "notes": "2/3rd tuition fee waiver applies."
+      },
+      "General_OBC_EWS_income_below_1L": {
+        "amount_rs": 0,
+        "notes": "100% tuition fee waiver applies."
+      },
+      "SC_ST_PH": {
+        "amount_rs": 0,
+        "notes": "100% tuition fee waiver applies regardless of income."
+      }
+    },
+    "hostel_fee_per_semester": {
+      "single_occupancy_rs": 35480,
+      "shared_occupancy_rs": 30370,
+      "notes": "Includes room rent, water/electricity charges, and amenities."
+    },
+    "mess_fee": {
+      "notes": "Notified separately via mess fee circulars. Includes mess advance and laundry charges."
+    }
+  }
+}
