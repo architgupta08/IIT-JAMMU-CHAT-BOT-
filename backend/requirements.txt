@@ -12,7 +12,7 @@ aiofiles==24.1.0
 # --- Hybrid RAG dependencies ---
 chromadb>=0.6.0
 sentence-transformers>=3.3.0
-rank-bm25>=0.2.6
+rank-bm25>=0.2.2
 networkx>=3.4
 duckduckgo-search>=7.0.0
 ddgs>=9.0.0

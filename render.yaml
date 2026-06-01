@@ -17,6 +17,8 @@ services:
     buildCommand: pip install -r backend/requirements.txt
     startCommand: cd backend && uvicorn main_v2:app --host 0.0.0.0 --port $PORT
     envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
       - key: LLM_PROVIDER
         value: bedrock
       - key: AWS_REGION
